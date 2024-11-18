@@ -1,0 +1,234 @@
+Item Number,Item Description,Item Type,ABC Code,Item Class Code,Item Code,Item Generic Description
+100XLG,Green Phone,Sales Inventory,A,,,Phone
+128 SDRAM,128 meg SDRAM,Sales Inventory,A,,,RAM
+24X IDE,24x CD-ROM,Sales Inventory,A,,,CD ROM
+256 SDRAM,256 meg SDRAM,Sales Inventory,A,,,RAM
+32 SDRAM,32 meg SDRAM,Sales Inventory,A,,,RAM
+32X IDE,32x CD-ROM,Sales Inventory,A,,,CD ROM
+333PROC,333 Processor,Sales Inventory,A,,,Processor
+4.5HD,4.5 gig Hard Drive,Sales Inventory,A,,,Drive
+400PROC,400 Processor,Sales Inventory,A,,,Processor
+40X IDE,40x CD-ROM,Sales Inventory,A,,,CD ROM
+450PROC,450 Processor,Sales Inventory,A,,,Processor
+500PROC,500 Processor,Sales Inventory,A,,,Processor
+6.5HD,6.5 gig Hard Drive,Sales Inventory,A,,,Drive
+64 SDRAM,64 meg SDRAM,Sales Inventory,A,,,RAM
+8.4HD,8.4 gig Hard Drive,Sales Inventory,A,,,Drive
+A100,Audio System,Sales Inventory,A,,,Audio
+ACCS-CRD-12WH,Phone Cord - 12' White,Sales Inventory,A,RETAIL,,Accessory
+ACCS-CRD-25BK,Phone Cord - 25' Black,Sales Inventory,A,RETAIL,,Accessory
+ACCS-HDS-1EAR,Headset-Single Ear,Sales Inventory,A,RETAIL,,Accessory
+ACCS-HDS-2EAR,Headset - Dual Ear,Sales Inventory,A,RETAIL,,Accessory
+ACCS-RST-DXBK,Shoulder Rest-Deluxe Black,Sales Inventory,A,RETAIL,,Accessory
+ACCS-RST-DXWH,Shoulder Rest - Deluxe White,Sales Inventory,A,RETAIL,,Accessory
+ANSW-ATT-1000,Attractive Answering System 1000,Sales Inventory,A,RETAIL,,Answer
+ANSW-PAN-1450,Panache KX-T1450 answer,Sales Inventory,A,RETAIL,,Answer
+ANSW-PAN-2460,Panache KX-T2460 answer,Sales Inventory,A,RETAIL,,Anwer
+ASMB-LBR-0001,"Labor, Parts Assembly",Services,(none),,,Parts
+BA100G,Base Assembly,Sales Inventory,A,,,Assembly
+BELL100,Phone Bellisimo,Sales Inventory,A,,,Bellisimo
+BK MOUSE,Black Mouse,Sales Inventory,A,,,Mouse
+BOT100G,Handset Bottom,Sales Inventory,A,,,Handset
+CAP100,Capacitor,Sales Inventory,A,,,Capacitor
+CB100,Circuit Board,Sales Inventory,A,,,Ct Board
+CBA100,Circuit Board Assembly,Sales Inventory,A,,,CBd Assem
+COMPBOOK,Computers Explained,Sales Inventory,A,,,Book
+CORDG,Green Cord,Sales Inventory,A,,,Cord
+COV100G,Green Cover,Sales Inventory,A,,,Cover
+FAXX-CAN-9800,Cantata FaxPhone 9800,Sales Inventory,A,RETAIL,,Fax
+FAXX-FG3-0001,Desktop Fax System,Sales Inventory,A,FINGOODS,,FG
+FAXX-RIC-060E,Richelieu Fax 60E,Sales Inventory,A,RETAIL,,Fax
+FAXX-SLK-0172,Sleek UX-172 fax,Sales Inventory,A,RETAIL,,Fax
+FAXX-SLK-2100,Sleek UX-2100 fax,Sales Inventory,A,RETAIL,,Fax
+FRHT-TWO-0001,Freight Charges,Misc Charges,(none),,,Freight
+FTRUB,Rubber Feet,Sales Inventory,A,,,Feet
+HA100G,Green Hand Assembly,Sales Inventory,A,,,Hand Assem
+HDWR-ACC-0100,Acclaimed Call Center System 100,Sales Inventory,A,RETAIL,,Hardware
+HDWR-CAB-0001,Central Cabinet,Sales Inventory,A,RETAIL,,Hardware
+HDWR-CIM-0001,Control interface/Memory,Sales Inventory,A,RETAIL,,Hardware
+HDWR-DCD-0001,Assembled Data Card,Kit,(none),RETAIL,,Data Card
+HDWR-FGC-0001,Data Card Assembly,Sales Inventory,A,FINGOODS,,FG
+HDWR-LDS-0001,Network LDS/Card,Sales Inventory,A,RETAIL,,Hardware
+HDWR-PNL-0001,Control Panel,Sales Inventory,A,RETAIL,,Hardware
+HDWR-PRO-4862,Pro processor 4S,Sales Inventory,A,RETAIL,,Hardware
+HDWR-PRO-4866,Pro processor 4D,Sales Inventory,A,RETAIL,,Hardware
+HDWR-RNG-0001,Ring Generator,Sales Inventory,A,RETAIL,,Hardware
+HDWR-SBD-0001,Switchboard,Sales Inventory,A,RETAIL,,
+HDWR-SRG-0001,Surge Protector Panel,Sales Inventory,A,RETAIL,,Hardware
+HDWR-SWM-0100,Switching Module (<100),Sales Inventory,A,RETAIL,,Hardware
+HDWR-SWM-0250,Switching Module (100-250),Sales Inventory,A,RETAIL,,Hardware
+HDWR-T1I-0001,T1 Interface Kit,Sales Inventory,A,RETAIL,,Hardware
+HDWR-TPS-0001,Tape Unit/Mass Storage,Sales Inventory,A,RETAIL,,Hardware
+INST-TWO-0001,Installation,Flat Fee,(none),,,Fees
+ITCT-CIR-CD85,"Integrated Circuit, PCD85-1",Sales Inventory,A,,,Parts
+KB104,Keyboard,Sales Inventory,A,,,Keyboard
+KPA100,Keypad Assembly,Sales Inventory,A,,,Kypd Assem
+M1500,"15"" Monitor",Sales Inventory,A,,,Monitor
+M1700,"17"" Monitor",Sales Inventory,A,,,Monitor
+M2100,"21"" Monitor",Sales Inventory,A,,,Monitor
+MIC100,Microphone,Sales Inventory,A,,,Mic
+MISC-TWO-0001,Mileage,Misc Charges,(none),,,Mileage
+PHAN-FAX-0001,Fax Machine Package,Sales Inventory,A,FINGOODS,,FG
+PHAN-PHN-0001,Standard Phone Package,Kit,(none),RETAIL,,
+PHON-ATT-0712,Attractive 712 wall phone,Sales Inventory,A,RETAIL,,Consumer P
+PHON-ATT-5354,Cordless-Attractive 5354,Sales Inventory,A,ATT CORD,,Consumer P
+PHON-ATT-53BK,Cordless-Attractive 5352-Black,Sales Inventory,A,ATT CORD,,Consumer P
+PHON-ATT-53BL,Cordless-Attractive 5352-Blue,Sales Inventory,A,ATT CORD,,Consumer P
+PHON-ATT-53RD,Cordless-Attractive 5352-Red,Sales Inventory,A,ATT CORD,,Consumer P
+PHON-ATT-53WH,Cordless-Attractive 5352-White,Sales Inventory,A,ATT CORD,,Consumer P
+PHON-BAS-0001,Phone Base,Sales Inventory,A,RETAIL,,
+PHON-BUS-1244,"Handset, 4-line Desk",Sales Inventory,A,RETAIL,,Business P
+PHON-BUS-1250,"Handset,multi-line",Sales Inventory,A,RETAIL,,Business P
+PHON-FGD-0001,Phones-Hands Free Dual Ear,Sales Inventory,A,FINGOODS,,FG
+PHON-FGS-0002,Phone-Hands Free Single Ear,Sales Inventory,A,FINGOODS,,FG
+PHON-GTE-3458,Memory-Grand M3458,Sales Inventory,A,RETAIL,,Consumer P
+PHON-GTE-5043,Cordless-Grand S5043,Sales Inventory,A,RETAIL,,Consumer P
+PHON-PAN-2315,Panache KX-T231 wall,Sales Inventory,A,RETAIL,,Consumer P
+PHON-PAN-3155,Panache KX-T3155 desk,Sales Inventory,A,RETAIL,,Consumer P
+PHON-PAN-3848,Cordless-Panache KX-T3848,Sales Inventory,A,RETAIL,,Consumer P
+PHON-RCV-0001,Receiver-Hands Free Dual Ear,Sales Inventory,A,RETAIL,,
+PHON-RCV-0002,Receiver-Hands Free Single Ear,Sales Inventory,A,RETAIL,,
+PHON-SNY-1250,Phone/Answ System 1250,Sales Inventory,A,RETAIL,,Consumer P
+PHSY-DEL-0001,Deluxe Phone System,Kit,(none),RETAIL,,
+PHSY-STD-0001,Standard Phone System,Kit,(none),RETAIL,,
+PRCT-CIR-0001,Printed Circuit  Board,Sales Inventory,A,,,Parts
+PRO1,Pro Computer,Sales Inventory,A,,,Computer
+PSYS-FG1-0001,Phone System 1,Sales Inventory,A,FINGOODS,,FG
+REPR-TWO-0001,In-shop Repair,Flat Fee,(none),,,Fees
+REPR-TWO-0002,On-site Repair,Flat Fee,(none),,,Fees
+RES100,Resistor,Sales Inventory,A,,,Resistor
+RESR-COM-68KM,Resistor-68KM Revised,Sales Inventory,A,RETAIL,,
+RESR-TRR-68KM,"Resistor, 6.8 Kohm",Sales Inventory,A,,,Parts
+RMTL-CAP-10MF,"Capacitor, .10mF",Sales Inventory,A,,,Parts
+SCAN100F,Scanner,Sales Inventory,A,,,Scanner
+SOFT-PHM-0001,Phone Mail System,Sales Inventory,A,RETAIL,,Software
+SOLDER,Solder,Sales Inventory,A,,,Solder
+SPK100,Speaker,Sales Inventory,A,,,Speaker
+SPLN-TWO-0001,Service Plans-Phone Systems,Services,(none),,,Service
+SPLN-TWO-0002,Service Plans - Equipment,Services,(none),,,Service P
+TOP100G,Handset Top,Sales Inventory,A,,,Hdst Top
+TRAN-STR-N394,"Transistor,2N394",Sales Inventory,A,,,Parts
+TRANS100,Transistor,Sales Inventory,A,,,Transistor
+TRANSF100,Transformer,Sales Inventory,A,,,Transforme
+VMSY-FG2-0001,Voice Mail System,Sales Inventory,A,FINGOODS,,FG
+WIRE-MCD-0001,Multi conductor wire,Sales Inventory,A,,,Wire
+WIRE-SCD-0001,Single conductor wire,Sales Inventory,A,,,Wire
+WIRE100,Phone Wire,Sales Inventory,C,,,Wire
+OM03215,Dual Basic Headset,Sales Inventory,(none),CATALOG,,
+OM01373,Light Cordless 1,Sales Inventory,(none),CATALOG,,
+OM02865,Digital Cordless Headset Phone,Sales Inventory,(none),CATALOG,,
+OM05849,Multifunctional Fax Machine 2,Sales Inventory,(none),CATALOG,,
+OM08529,Conference Call Phone 1,Sales Inventory,(none),CATALOG,,
+OM08539,Conference Call Phone 2,Sales Inventory,(none),CATALOG,,
+OM02536,Digital Answering Machine with Caller ID,Sales Inventory,(none),CATALOG,,
+OM04586,Multifunctional Fax Machine 1,Sales Inventory,(none),CATALOG,,
+OM08570,Home Desktop Tower PC 1,Sales Inventory,(none),CATALOG,,
+OM08575,Home Desktop Tower PC 2,Sales Inventory,(none),CATALOG,,
+OM08580,Home Desktop Tower PC 3,Sales Inventory,(none),CATALOG,,
+OM08585,Home Laptop PC 1,Sales Inventory,(none),CATALOG,,
+OM08590,Home Laptop PC 2,Sales Inventory,(none),CATALOG,,
+OM08595,Home Laptop PC 3,Sales Inventory,(none),CATALOG,,
+OM08600,Business Desktop PC 1,Sales Inventory,(none),CATALOG,,
+OM08605,Business Desktop PC 2,Sales Inventory,(none),CATALOG,,
+OM08610,Business Laptop PC 1,Sales Inventory,(none),CATALOG,,
+OM08615,Business Laptop PC 2,Sales Inventory,(none),CATALOG,,
+OM08620,Office Chair 1,Sales Inventory,(none),CATALOG,,
+OM08625,Office Chair 2,Sales Inventory,(none),CATALOG,,
+OM08640,Office Table 1,Sales Inventory,(none),CATALOG,,
+OM08645,Office Table 2,Sales Inventory,(none),CATALOG,,
+OM08665,Office Shelf 1,Sales Inventory,(none),CATALOG,,
+OM08670,Office Shelf 2,Sales Inventory,(none),CATALOG,,
+OM08685,Office Cabinet 1,Sales Inventory,(none),CATALOG,,
+OM08690,Office Cabinet 2,Sales Inventory,(none),CATALOG,,
+OM08710,Office Locker 1,Sales Inventory,(none),CATALOG,,
+OM08715,Office Locker 2,Sales Inventory,(none),CATALOG,,
+1GPROC,1 Ghz Processor,Sales Inventory,B,RM-ACT,,
+2GPROC,2 Ghz Processor,Sales Inventory,B,RM-ACT,,
+512 SDRAM,512 MEG RAM,Sales Inventory,(none),RM-ACT,,
+ARM,Wood chair arm,Sales Inventory,(none),RM-STD,,
+BACK ASSEMBLY,Wood chair back assembly,Sales Inventory,(none),RM-STD,,
+BACK FABRIC,Chair back fabric,Sales Inventory,(none),RM-STD,,
+BACK FRAME,Wood chair back frame,Sales Inventory,(none),RM-STD,,
+BAND-LEATHER,Leather watch band,Sales Inventory,(none),RM-STD,,
+BAND-METAL,Metal watch band,Sales Inventory,(none),RM-STD,,
+BAND-PLASTIC,Plastic watch band,Sales Inventory,(none),RM-STD,,
+BARREL ASSEMBLY,Pen barrel assembly,Sales Inventory,(none),RM-ACT,,
+BATTERY,watch battery,Sales Inventory,(none),RM-STD,,
+BLACK INK,Black ink cartridge,Sales Inventory,(none),RM-ACT,,
+CHAIR,Standard wooden chair,Sales Inventory,(none),FG-STD,,
+CLIP,Pocket pen clip,Sales Inventory,(none),RM-ACT,,
+CDROM,CD ROM drive,Sales Inventory,(none),RM-ACT,,
+COMPDUM,Standard Barebones Computer,Sales Inventory,(none),FG-STD,,
+COMPUTER,standard white computer,Sales Inventory,(none),FG-ACT,,
+DISPLAY,Plastic watch case/display,Sales Inventory,(none),RM-STD,,
+DRIVE ASSY,Drive Assembly,Sales Inventory,(none),RM-ACT,,
+DVD,DVD drive,Sales Inventory,(none),RM-ACT,,
+DVD ROM,DVD ROM internal drive,Sales Inventory,(none),RM-ACT,,
+EXTERIOR ASSEMBLY,Exterior pen assembly,Sales Inventory,(none),RM-ACT,,
+FACE-DIGITAL,Digital watch face,Sales Inventory,(none),RM-STD,,
+FACE-ANALOG,Analog watch face,Sales Inventory,(none),RM-STD,,
+FAXX-SHP-0172,Standard UX-172 fax,Sales Inventory,(none),FG-STD,,
+FAXX-SHP-2100,Standard UX-2100 fax,Sales Inventory,(none),FG-STD,,
+HARD DRIVE,Hard Drive,Sales Inventory,(none),RM-ACT,,
+HD-20,20 Gig Hard Drive,Sales Inventory,(none),RM-ACT,,
+HD-40,40 Gig hard drive,Sales Inventory,(none),RM-ACT,,
+HD-60,60 Gig hard drive,Sales Inventory,(none),RM-ACT,,
+HDWR-ASP-0100,Standard Surge Protector,Sales Inventory,(none),FG-STD,,
+LEG,Wooden chair leg,Sales Inventory,(none),RM-STD,,
+PAINT,out-sourced painting,Services,(none),RM-ACT,,
+PEN,Fancy pen,Sales Inventory,(none),FG-ACT,,
+PEN CAP,Metal cap for pen,Sales Inventory,(none),RM-ACT,,
+SEAT ASSEMBLY,Wooden chair seat assembly,Sales Inventory,(none),RM-STD,,
+SEAT FABRIC,Blue fabric for wooden chair,Sales Inventory,(none),RM-STD,,
+SEAT FRAME,Wood seat frame,Sales Inventory,(none),RM-STD,,
+SPRING,Metal spring for pen,Sales Inventory,(none),RM-ACT,,
+STYLE-M,Mens style custom watch,Sales Inventory,(none),RM-STD,,
+STYLE-W,Womens style custom watch,Sales Inventory,(none),RM-STD,,
+WATCH,Custom watch,Sales Inventory,(none),FG-STD,,
+1-A3261A,Multi-Core Processor,Sales Inventory,(none),SERVERS-1,,Servers
+1-A3483A,SIMM EDO 72,Sales Inventory,(none),MEMORY-1,,
+2-A3284A,Dual Core Server,Sales Inventory,(none),SERVERS-2,,Servers
+3-A2440A,Operating System,Sales Inventory,(none),COMPONENTS,,
+3-A2969A,1 TB SCSI Raid,Sales Inventory,(none),COMPONENTS,,
+3-A2990A,HSC 2 Expansion Slot,Sales Inventory,(none),COMPONENTS,,
+3-A2998A,Rackmount UPS,Sales Inventory,(none),COMPONENTS,,
+3-A3294A,ECC Memory,Sales Inventory,(none),MEMORY-1,,
+3-A3416A,Internal CD-ROM Drive,Sales Inventory,(none),COMPONENTS,,
+3-A3542A,DDS Drive,Sales Inventory,(none),COMPONENTS,,
+3-B3813A,Keyboard,Sales Inventory,(none),COMPONENTS,,
+3-B3897A,CD-ROM Media,Sales Inventory,(none),COMPONENTS,,
+3-C2786A,Cabinet,Sales Inventory,(none),CABINETS,,Cabinet
+3-C2804A,Rackmount Kit,Sales Inventory,(none),COMPONENTS,,
+3-C2924A,SCSI Cable,Sales Inventory,(none),COMPONENTS,,
+3-D2094A,Printer,Sales Inventory,(none),PRINTERS-1,,Printers
+3-D2657A,Male Adapter,Sales Inventory,(none),COMPONENTS,,
+3-D2659A,Female Adapter,Sales Inventory,(none),COMPONENTS,,
+3-E4471A,Extractor Fan,Sales Inventory,(none),COMPONENTS,,
+3-E4472A,Power Dist Unit Installation Kit,Sales Inventory,(none),COMPONENTS,,
+3-E4592A,SurgeArrest Plus,Sales Inventory,(none),COMPONENTS,,
+3-J2094A,RS-232C Modem,Sales Inventory,(none),MODEMS,,Modems
+4-A3351A,4 GB FWD SCSI-2Disk Drive,Sales Inventory,(none),COMPONENT2,,
+4-A3539A,VGA Color Monitor,Sales Inventory,(none),COMPONENT2,,
+4-A3666A,73GB SCSI disk,Sales Inventory,(none),COMPONENT2,,
+4-E2094A,Laserjet Printer,Sales Inventory,(none),PRINTERS-2,,Printers
+4-E5930A,UPS Power Dist Unit,Sales Inventory,(none),COMPONENT2,,
+5-DBLLABOR,Doubletime service labor,Services,(none),,,Labor
+5-FEE,Per Call Fee,Flat Fee,(none),,,Fee
+5-HOTLINE,Hotline Labor,Services,(none),,,Labor
+5-MILEAGE,Mileage,Misc Charges,(none),,,Mileage
+5-OVTLABOR,Overtime service labor,Services,(none),,,Labor
+5-STDLABOR,Standard service labor,Services,(none),,,Labor
+5-SUPPLIES,Supplies,Misc Charges,(none),,,Supplies
+5-TRAVEL,Travel Expenses,Misc Charges,(none),,,Expenses
+5-TVLLABOR,Travel Labor,Services,(none),,,Labor
+5-CONTRACTS,Service Contract Revenue,Flat Fee,(none),,,Contracts
+5-ASSY,Assembly Labor,Services,(none),,,Labor
+5-DEPOT,Depot Labor,Services,(none),,,Labor
+5-DIAG,Diagnostics Labor,Services,(none),,,Labor
+5-SHIP,"Shipping,Stocking Labor",Services,(none),,,Labor
+5-TEARDOWN,Teardown Labor,Services,(none),,,Labor
+1000XLP,Purple Phone,Sales Inventory,A,,,Phone
+FAXX-HLP-5433,HP Fax 5433,Sales Inventory,A,RETAIL,,Fax
+100XLA,Aqua Phone,Sales Inventory,A,,,Phone
+STICKER101,Citizen Developer Sticker,Sales Inventory,(none),RETAIL,,
+STICKER103,Working with Power Sticker,Sales Inventory,(none),RETAIL,,
