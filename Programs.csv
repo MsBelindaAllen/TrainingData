@@ -1,0 +1,13 @@
+program_id,program_name,location,start_date,attendance_target
+P001,After School STEM,Denver,2025-07-15,31
+P002,Summer Reading Camp,Denver,2025-08-05,45
+P003,Teen Leadership Forum,Chicago,2025-07-18,77
+P004,Healthy Lifestyles,Atlanta,2025-09-08,35
+P005,Digital Makers Lab,Miami,2025-08-24,32
+P006,Music & Arts,Atlanta,2025-07-12,43
+P007,Homework Help,Chicago,2025-09-03,68
+P008,Career Readiness,Atlanta,2025-07-26,75
+P009,Robotics Club,Denver,2025-09-08,56
+P010,Civic Leadership,Chicago,2025-08-27,67
+P011,Esports League,Dallas,2025-07-01,78
+P012,Mentor Match,Chicago,2025-08-24,51

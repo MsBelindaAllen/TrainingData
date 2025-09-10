@@ -1,0 +1,31 @@
+grant_id,funder,program_id,amount,report_due_date,status
+G001,United Way,P003,10000,2025-10-02,Drafted
+G002,Dept. of Education,P004,15000,2025-09-05,Submitted
+G003,Youth Futures Fund,P012,20000,2025-10-28,Drafted
+G004,Dept. of Education,P006,5000,2025-11-24,Submitted
+G005,City Grant,P010,40000,2025-09-06,Submitted
+G006,United Way,P009,40000,2025-09-22,Drafted
+G007,Local Foundation,P002,20000,2025-10-22,Approved
+G008,United Way,P012,25000,2025-12-12,Drafted
+G009,Corporate Sponsor,P003,10000,2025-11-14,In Progress
+G010,Youth Futures Fund,P009,25000,2025-10-08,Submitted
+G011,Youth Futures Fund,P011,25000,2025-09-05,Approved
+G012,Corporate Sponsor,P004,20000,2025-09-11,Submitted
+G013,Dept. of Education,P008,20000,2025-11-18,Submitted
+G014,Corporate Sponsor,P009,15000,2025-10-09,Submitted
+G015,Dept. of Education,P001,10000,2025-09-21,Submitted
+G016,State Education Board,P009,10000,2025-10-03,Approved
+G017,Dept. of Education,P012,5000,2025-10-02,Approved
+G018,Dept. of Education,P008,5000,2025-10-09,Submitted
+G019,United Way,P004,5000,2025-12-17,Drafted
+G020,City Grant,P001,40000,2025-09-20,Approved
+G021,State Education Board,P007,40000,2025-11-15,Drafted
+G022,Local Foundation,P002,25000,2025-12-07,In Progress
+G023,State Education Board,P010,20000,2025-09-01,Approved
+G024,United Way,P001,15000,2025-10-29,Drafted
+G025,Corporate Sponsor,P009,25000,2025-12-16,Drafted
+G026,Corporate Sponsor,P002,25000,2025-12-12,In Progress
+G027,State Education Board,P006,20000,2025-11-24,In Progress
+G028,Local Foundation,P012,20000,2025-10-23,In Progress
+G029,Local Foundation,P002,5000,2025-09-29,Submitted
+G030,United Way,P005,5000,2025-09-26,Drafted
