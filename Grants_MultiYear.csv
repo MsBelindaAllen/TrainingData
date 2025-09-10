@@ -1,0 +1,121 @@
+grant_id,funder,program_id,amount,report_due_date,status
+G00001,City Grant,P007,5000,2023-08-07,Approved
+G00002,State Education Board,P001,15000,2023-09-23,Drafted
+G00003,Local Foundation,P012,40000,2023-10-27,In Progress
+G00004,Dept. of Education,P004,25000,2023-05-11,Drafted
+G00005,Corporate Sponsor,P005,20000,2023-04-12,Approved
+G00006,City Grant,P006,5000,2023-07-26,In Progress
+G00007,Youth Futures Fund,P005,10000,2023-09-11,Drafted
+G00008,United Way,P001,15000,2023-11-18,In Progress
+G00009,United Way,P007,5000,2023-05-16,Approved
+G00010,Local Foundation,P009,5000,2023-12-25,Approved
+G00011,State Education Board,P004,40000,2023-06-21,In Progress
+G00012,Dept. of Education,P005,40000,2023-09-01,Approved
+G00013,Local Foundation,P007,15000,2023-06-16,Drafted
+G00014,Corporate Sponsor,P001,25000,2023-07-23,In Progress
+G00015,United Way,P001,5000,2023-04-22,Drafted
+G00016,State Education Board,P003,40000,2023-12-18,Submitted
+G00017,Local Foundation,P010,5000,2023-04-26,In Progress
+G00018,United Way,P010,10000,2023-08-04,Submitted
+G00019,Youth Futures Fund,P006,20000,2023-12-01,Drafted
+G00020,Corporate Sponsor,P003,25000,2023-12-18,Drafted
+G00021,City Grant,P012,25000,2023-09-23,Approved
+G00022,State Education Board,P008,25000,2023-04-05,In Progress
+G00023,City Grant,P012,25000,2023-09-26,Submitted
+G00024,Youth Futures Fund,P004,25000,2023-05-13,Approved
+G00025,Youth Futures Fund,P011,10000,2023-11-02,In Progress
+G00026,United Way,P001,5000,2023-04-22,Submitted
+G00027,United Way,P005,40000,2023-07-24,Submitted
+G00028,City Grant,P003,40000,2023-12-04,Submitted
+G00029,City Grant,P003,5000,2023-12-22,Drafted
+G00030,Youth Futures Fund,P006,15000,2023-07-28,Drafted
+G00031,Corporate Sponsor,P005,5000,2023-05-02,Drafted
+G00032,Local Foundation,P012,10000,2023-07-21,In Progress
+G00033,Youth Futures Fund,P008,25000,2023-03-04,Drafted
+G00034,Local Foundation,P004,20000,2023-04-27,Drafted
+G00035,City Grant,P006,10000,2023-08-22,Approved
+G00036,Local Foundation,P003,5000,2023-04-09,Submitted
+G00037,Youth Futures Fund,P010,10000,2023-11-25,Submitted
+G00038,State Education Board,P002,15000,2023-04-16,Submitted
+G00039,Dept. of Education,P010,5000,2023-09-06,Submitted
+G00040,Dept. of Education,P004,25000,2023-11-06,Approved
+G00041,Corporate Sponsor,P004,15000,2024-08-16,Submitted
+G00042,Corporate Sponsor,P007,15000,2024-12-27,Submitted
+G00043,State Education Board,P005,20000,2024-11-25,In Progress
+G00044,City Grant,P011,10000,2024-03-13,Submitted
+G00045,Youth Futures Fund,P004,5000,2024-12-25,Drafted
+G00046,Youth Futures Fund,P002,20000,2024-07-22,Approved
+G00047,Youth Futures Fund,P002,25000,2024-06-13,Approved
+G00048,City Grant,P004,40000,2024-06-04,In Progress
+G00049,United Way,P003,20000,2024-06-14,In Progress
+G00050,City Grant,P005,15000,2024-12-08,Drafted
+G00051,State Education Board,P010,15000,2024-12-10,In Progress
+G00052,Youth Futures Fund,P003,40000,2024-10-01,Submitted
+G00053,Youth Futures Fund,P011,5000,2024-09-28,In Progress
+G00054,State Education Board,P002,20000,2024-09-23,Approved
+G00055,United Way,P007,5000,2024-08-21,In Progress
+G00056,State Education Board,P001,15000,2024-05-10,Approved
+G00057,State Education Board,P005,5000,2024-06-27,Submitted
+G00058,Dept. of Education,P007,40000,2024-06-19,Drafted
+G00059,State Education Board,P010,25000,2024-12-04,Approved
+G00060,Local Foundation,P009,40000,2024-03-10,Approved
+G00061,State Education Board,P008,10000,2024-07-12,In Progress
+G00062,State Education Board,P001,10000,2024-11-26,Drafted
+G00063,City Grant,P010,40000,2024-05-05,Approved
+G00064,Local Foundation,P011,5000,2024-03-07,Approved
+G00065,Corporate Sponsor,P010,15000,2024-06-28,In Progress
+G00066,United Way,P012,15000,2024-03-28,Approved
+G00067,City Grant,P002,40000,2024-09-28,Approved
+G00068,State Education Board,P002,5000,2024-03-05,Drafted
+G00069,United Way,P009,25000,2024-09-20,Submitted
+G00070,United Way,P001,40000,2024-05-04,Approved
+G00071,Youth Futures Fund,P004,15000,2024-09-08,In Progress
+G00072,City Grant,P009,5000,2024-04-07,Drafted
+G00073,Youth Futures Fund,P005,40000,2024-04-06,Submitted
+G00074,Corporate Sponsor,P005,20000,2024-04-04,Approved
+G00075,Dept. of Education,P008,25000,2024-03-25,Drafted
+G00076,Local Foundation,P008,15000,2024-07-20,Submitted
+G00077,Youth Futures Fund,P003,40000,2024-04-09,In Progress
+G00078,Corporate Sponsor,P002,5000,2024-06-01,Drafted
+G00079,Local Foundation,P002,5000,2024-09-02,Submitted
+G00080,Corporate Sponsor,P008,40000,2024-06-19,Approved
+G00081,Local Foundation,P009,10000,2025-12-14,Approved
+G00082,City Grant,P008,20000,2025-05-04,Drafted
+G00083,State Education Board,P006,5000,2025-04-07,Submitted
+G00084,State Education Board,P009,10000,2025-07-14,Drafted
+G00085,Dept. of Education,P010,15000,2025-03-01,In Progress
+G00086,Corporate Sponsor,P012,20000,2025-08-10,Approved
+G00087,State Education Board,P008,20000,2025-10-25,In Progress
+G00088,United Way,P004,20000,2025-05-17,Approved
+G00089,Dept. of Education,P003,5000,2025-04-06,Drafted
+G00090,United Way,P003,15000,2025-08-19,Approved
+G00091,Dept. of Education,P008,10000,2025-11-16,Approved
+G00092,Dept. of Education,P011,40000,2025-05-14,Approved
+G00093,State Education Board,P008,10000,2025-06-27,Approved
+G00094,United Way,P003,15000,2025-03-08,Approved
+G00095,Youth Futures Fund,P011,15000,2025-04-11,Drafted
+G00096,Local Foundation,P011,10000,2025-03-25,Submitted
+G00097,United Way,P001,40000,2025-09-21,Approved
+G00098,City Grant,P005,20000,2025-08-01,Submitted
+G00099,Youth Futures Fund,P002,15000,2025-03-03,Drafted
+G00100,Local Foundation,P004,20000,2025-11-02,Approved
+G00101,State Education Board,P012,15000,2025-05-20,In Progress
+G00102,United Way,P006,15000,2025-03-22,Submitted
+G00103,Local Foundation,P001,15000,2025-11-23,Submitted
+G00104,Corporate Sponsor,P008,25000,2025-06-10,Drafted
+G00105,United Way,P009,40000,2025-10-04,Submitted
+G00106,United Way,P009,5000,2025-06-07,In Progress
+G00107,Local Foundation,P003,20000,2025-09-05,In Progress
+G00108,Youth Futures Fund,P001,10000,2025-10-10,Submitted
+G00109,Dept. of Education,P008,5000,2025-07-05,In Progress
+G00110,Local Foundation,P008,10000,2025-12-02,Approved
+G00111,City Grant,P006,5000,2025-09-25,Approved
+G00112,Corporate Sponsor,P008,25000,2025-12-15,Approved
+G00113,City Grant,P007,20000,2025-12-04,Approved
+G00114,City Grant,P012,10000,2025-08-25,In Progress
+G00115,Dept. of Education,P005,20000,2025-04-03,Approved
+G00116,Corporate Sponsor,P003,15000,2025-07-15,In Progress
+G00117,Local Foundation,P004,10000,2025-11-02,Approved
+G00118,Corporate Sponsor,P009,10000,2025-10-19,In Progress
+G00119,Youth Futures Fund,P009,15000,2025-12-20,In Progress
+G00120,State Education Board,P003,10000,2025-12-03,Approved

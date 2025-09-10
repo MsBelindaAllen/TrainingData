@@ -1,0 +1,37 @@
+program_id,program_name,location,start_date,attendance_target
+P001,After School STEM,Miami,2023-08-31,39
+P002,Summer Reading Camp,Dallas,2023-07-16,66
+P003,Teen Leadership Forum,Miami,2023-09-03,79
+P004,Healthy Lifestyles,Dallas,2023-07-19,77
+P005,Digital Makers Lab,Chicago,2023-08-27,40
+P006,Music & Arts,Seattle,2023-09-09,77
+P007,Homework Help,Chicago,2023-08-13,38
+P008,Career Readiness,Atlanta,2023-08-30,69
+P009,Robotics Club,Chicago,2023-07-25,78
+P010,Civic Leadership,Miami,2023-09-06,58
+P011,Esports League,Miami,2023-08-17,55
+P012,Mentor Match,Dallas,2023-08-30,65
+P013,After School STEM,Atlanta,2024-08-17,65
+P014,Summer Reading Camp,Seattle,2024-07-07,52
+P015,Teen Leadership Forum,Dallas,2024-07-16,32
+P016,Healthy Lifestyles,Denver,2024-07-30,43
+P017,Digital Makers Lab,Denver,2024-07-01,41
+P018,Music & Arts,Denver,2024-07-28,54
+P019,Homework Help,Atlanta,2024-07-28,35
+P020,Career Readiness,Seattle,2024-07-04,63
+P021,Robotics Club,Miami,2024-07-26,51
+P022,Civic Leadership,Denver,2024-08-03,79
+P023,Esports League,Chicago,2024-07-06,74
+P024,Mentor Match,Dallas,2024-08-14,31
+P025,After School STEM,Seattle,2025-07-18,31
+P026,Summer Reading Camp,Denver,2025-07-21,33
+P027,Teen Leadership Forum,Miami,2025-07-27,56
+P028,Healthy Lifestyles,Atlanta,2025-07-07,58
+P029,Digital Makers Lab,Atlanta,2025-07-14,54
+P030,Music & Arts,Denver,2025-08-07,67
+P031,Homework Help,Atlanta,2025-09-04,62
+P032,Career Readiness,Chicago,2025-07-24,39
+P033,Robotics Club,Denver,2025-07-27,70
+P034,Civic Leadership,Miami,2025-08-18,45
+P035,Esports League,Seattle,2025-07-16,53
+P036,Mentor Match,Seattle,2025-07-10,79
