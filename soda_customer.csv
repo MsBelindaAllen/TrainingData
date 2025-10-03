@@ -1,0 +1,201 @@
+CustomerID,CustomerName,Channel,RegionID
+1,McDonald's #202,Retail,1
+2,Sheetz #535,Convenience,2
+3,Sam's Club #960,Retail,5
+4,Publix #370,On-Premise,4
+5,Piggly Wiggly #206,Retail,1
+6,Kroger #171,Convenience,5
+7,Compass Group #800,On-Premise,2
+8,McDonald's #120,Convenience,4
+9,Local Grocery #714,Retail,2
+10,Wawa #221,Food Service,3
+11,7-Eleven #566,Convenience,3
+12,7-Eleven #314,Retail,4
+13,US Foods #430,Food Service,3
+14,Circle K #558,Retail,4
+15,Burger King #187,Vending,1
+16,Ingles #472,On-Premise,3
+17,ACE Foodservice #199,Retail,1
+18,ACE Foodservice #971,Food Service,1
+19,McDonald's #763,Retail,4
+20,Food Lion #230,Vending,3
+21,Piggly Wiggly #761,Food Service,3
+22,Food Lion #408,Food Service,1
+23,Food Lion #869,On-Premise,2
+24,McDonald's #443,Vending,4
+25,Domino's #591,On-Premise,2
+26,Publix #513,Retail,2
+27,McDonald's #905,Food Service,4
+28,Domino's #485,Retail,2
+29,Aramark #291,Convenience,4
+30,US Foods #376,Vending,2
+31,US Foods #260,Convenience,2
+32,Aramark #559,On-Premise,4
+33,Sheetz #413,Food Service,2
+34,Sam's Club #121,On-Premise,4
+35,Wawa #352,Retail,1
+36,Costco #847,Convenience,4
+37,Local Gas #956,Vending,4
+38,Walmart #660,On-Premise,3
+39,McDonald's #574,Retail,5
+40,Burger King #158,Food Service,1
+41,Local Gas #610,Vending,2
+42,Harris Teeter #781,Retail,3
+43,Subway #575,On-Premise,1
+44,Ingles #799,On-Premise,5
+45,Food Lion #882,Convenience,3
+46,Walmart #289,On-Premise,5
+47,Hospital Cafeteria #786,On-Premise,3
+48,Panera #662,Retail,1
+49,Target #975,Food Service,2
+50,Sam's Club #666,Convenience,5
+51,Costco #343,Retail,4
+52,Sheetz #931,On-Premise,2
+53,Food Lion #604,Vending,5
+54,Local Grocery #230,Food Service,5
+55,Ingles #584,Convenience,5
+56,Panera #918,Food Service,4
+57,Local Deli #746,Vending,5
+58,ACE Foodservice #120,Retail,2
+59,Kroger #940,Retail,3
+60,ACE Foodservice #266,On-Premise,5
+61,Walmart #373,On-Premise,2
+62,ACE Foodservice #487,Retail,1
+63,Papa John's #700,Retail,1
+64,Sysco #415,Retail,5
+65,Piggly Wiggly #113,Food Service,4
+66,University Dining #341,On-Premise,2
+67,Compass Group #876,Convenience,4
+68,7-Eleven #445,Convenience,1
+69,Local Grocery #664,Vending,3
+70,Target #997,Vending,4
+71,Aramark #439,Retail,1
+72,Sysco #191,Food Service,1
+73,Local Deli #466,Convenience,2
+74,Harris Teeter #554,Convenience,4
+75,Sysco #527,Food Service,4
+76,7-Eleven #608,Retail,4
+77,Walmart #875,Retail,5
+78,Food Lion #134,Retail,2
+79,University Dining #305,Vending,4
+80,Target #180,Convenience,4
+81,Walmart #661,Convenience,4
+82,Local Gas #971,Vending,3
+83,Hospital Cafeteria #487,Food Service,4
+84,Burger King #101,Convenience,2
+85,Target #489,Convenience,1
+86,Target #665,Food Service,1
+87,Food Lion #205,On-Premise,4
+88,Sam's Club #871,Retail,5
+89,Costco #921,Convenience,1
+90,Circle K #576,Convenience,4
+91,Publix #802,On-Premise,2
+92,Compass Group #501,On-Premise,1
+93,Domino's #829,On-Premise,5
+94,Domino's #655,Food Service,2
+95,Aramark #261,Convenience,3
+96,Local Gas #301,Convenience,3
+97,Walmart #369,Food Service,1
+98,7-Eleven #962,Vending,5
+99,Piggly Wiggly #915,Retail,5
+100,Sheetz #370,On-Premise,3
+101,Sysco #555,Food Service,1
+102,Food Lion #561,Food Service,3
+103,Subway #826,Vending,5
+104,Walmart #351,On-Premise,5
+105,7-Eleven #801,On-Premise,3
+106,Circle K #395,Convenience,3
+107,Wawa #824,Retail,5
+108,Piggly Wiggly #819,Food Service,3
+109,US Foods #848,Food Service,2
+110,US Foods #437,On-Premise,4
+111,Local Grocery #978,Retail,1
+112,Walmart #152,Food Service,1
+113,US Foods #891,Food Service,2
+114,Local Grocery #316,Convenience,4
+115,Circle K #863,On-Premise,1
+116,Publix #287,Retail,2
+117,Wawa #479,Food Service,5
+118,Publix #592,Vending,2
+119,Publix #140,Food Service,3
+120,Sysco #256,Food Service,2
+121,Compass Group #114,Retail,3
+122,Sysco #912,On-Premise,2
+123,Compass Group #164,Convenience,2
+124,Papa John's #956,Retail,2
+125,McDonald's #938,Vending,2
+126,Starbucks #620,Convenience,1
+127,ACE Foodservice #443,Retail,4
+128,Chipotle #228,Convenience,4
+129,ACE Foodservice #747,Food Service,2
+130,Aramark #571,Retail,2
+131,Costco #162,Food Service,3
+132,Aramark #238,Food Service,3
+133,Kroger #598,On-Premise,3
+134,Harris Teeter #692,Retail,3
+135,Publix #491,On-Premise,3
+136,Local Grocery #774,Retail,5
+137,Local Grocery #518,Food Service,3
+138,Circle K #388,On-Premise,5
+139,Ingles #478,Vending,5
+140,Local Grocery #872,Food Service,1
+141,Ingles #589,Retail,5
+142,Costco #330,Food Service,4
+143,Domino's #140,Food Service,5
+144,Subway #127,Retail,3
+145,Aramark #234,Vending,3
+146,Sheetz #300,Food Service,5
+147,Starbucks #939,Convenience,4
+148,Subway #879,Convenience,5
+149,Walmart #132,Vending,5
+150,Piggly Wiggly #147,Food Service,3
+151,Domino's #602,Vending,5
+152,Local Deli #506,Vending,4
+153,University Dining #673,Convenience,5
+154,Burger King #827,Convenience,1
+155,Papa John's #904,On-Premise,5
+156,Subway #198,Retail,2
+157,Wawa #783,Convenience,2
+158,Sysco #971,Retail,1
+159,Costco #825,Vending,5
+160,Ingles #646,Vending,4
+161,Aramark #838,Vending,4
+162,Walmart #712,Convenience,2
+163,ACE Foodservice #561,Retail,4
+164,Local Gas #742,Convenience,5
+165,Sysco #868,Retail,5
+166,Sheetz #104,Retail,4
+167,Domino's #317,Vending,5
+168,Local Grocery #602,Vending,5
+169,Food Lion #866,On-Premise,4
+170,US Foods #497,Vending,4
+171,Hospital Cafeteria #970,Convenience,3
+172,Local Deli #894,Convenience,3
+173,Sysco #492,Retail,3
+174,Domino's #306,Food Service,3
+175,Sheetz #114,On-Premise,1
+176,Starbucks #957,Convenience,2
+177,Costco #653,Convenience,2
+178,Papa John's #991,Vending,4
+179,Compass Group #560,On-Premise,4
+180,Compass Group #790,Retail,2
+181,Kroger #674,Vending,5
+182,University Dining #963,On-Premise,4
+183,Subway #842,Retail,3
+184,ACE Foodservice #340,Vending,4
+185,McDonald's #663,Vending,2
+186,Kroger #195,Vending,4
+187,Aramark #833,Vending,3
+188,Sheetz #584,Convenience,4
+189,Kroger #506,On-Premise,5
+190,Kroger #330,Vending,5
+191,Sheetz #848,Retail,4
+192,Target #754,Vending,2
+193,Domino's #270,Food Service,4
+194,Domino's #640,Convenience,4
+195,McDonald's #135,Food Service,4
+196,Sam's Club #624,Vending,3
+197,Target #259,Vending,1
+198,Costco #938,Food Service,2
+199,Sysco #798,Retail,1
+200,Wawa #342,Convenience,1
