@@ -1,0 +1,16 @@
+CustomerID,CustomerName,Country,Category
+CUST001,Walmart Pharmacy,US,National Brands
+CUST002,CVS Pharmacy,US,National Brands
+CUST003,Walgreens,US,National Brands
+CUST004,Duane Reade,US,National Brands
+CUST005,Shoppers Drug Mart,Canada,National Brands
+CUST006,Rexall Pharmacy,Canada,National Brands
+CUST007,Walmart Pharmacy,Canada,National Brands
+CUST008,CVS Pharmacy,Canada,National Brands
+CUST009,Walmart Pharmacy,US,Own Brands
+CUST010,CVS Pharmacy,US,Own Brands
+CUST011,Walgreens,Canada,Own Brands
+CUST012,PharmaOne Plus,US,Other Category Management
+CUST013,Northern Wellness,Canada,Other Category Management
+CUST014,Walgreens Express,US,National Brands
+CUST015,PharmaCo Retail,Canada,National Brands
