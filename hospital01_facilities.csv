@@ -1,0 +1,6 @@
+FacilityID,FacilityName,Region,StrokeCenterLevel
+1,Main Hospital,Central,Comprehensive
+2,North Campus,North,Primary
+3,South Campus,South,Primary
+4,East Specialty Center,East,Thrombectomy-Capable
+5,West Community Hospital,West,Primary

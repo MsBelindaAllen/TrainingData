@@ -1,0 +1,6 @@
+OutcomeID,Outcome,OutcomeGroup
+1,Discharged Home,Favorable
+2,Discharged to Rehab,Favorable
+3,Skilled Nursing Facility,Post-Acute
+4,Transferred,Transfer
+5,In-hospital Death,Mortality

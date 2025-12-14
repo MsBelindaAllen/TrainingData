@@ -1,0 +1,121 @@
+SIRRecordID,Month,ServiceLine,ObservedInfections,ExpectedInfections,SIR,PerformanceFlag
+1,2024-01-01,General Surgery,4,3.5,1.14,Worse than expected
+2,2024-01-01,Orthopedics,3,2.23,1.35,Worse than expected
+3,2024-01-01,OB/GYN,4,5.88,0.68,Better than expected
+4,2024-01-01,Cardiology,3,4.1,0.73,Better than expected
+5,2024-01-01,Oncology,3,3.17,0.95,Better than expected
+6,2024-02-01,General Surgery,2,4.06,0.49,Better than expected
+7,2024-02-01,Orthopedics,0,2.68,0.0,Better than expected
+8,2024-02-01,OB/GYN,6,5.8,1.03,Worse than expected
+9,2024-02-01,Cardiology,2,3.98,0.5,Better than expected
+10,2024-02-01,Oncology,8,4.65,1.72,Worse than expected
+11,2024-03-01,General Surgery,2,5.69,0.35,Better than expected
+12,2024-03-01,Orthopedics,3,3.3,0.91,Better than expected
+13,2024-03-01,OB/GYN,3,3.12,0.96,Better than expected
+14,2024-03-01,Cardiology,2,5.95,0.34,Better than expected
+15,2024-03-01,Oncology,5,5.26,0.95,Better than expected
+16,2024-04-01,General Surgery,3,5.45,0.55,Better than expected
+17,2024-04-01,Orthopedics,4,3.3,1.21,Worse than expected
+18,2024-04-01,OB/GYN,6,4.85,1.24,Worse than expected
+19,2024-04-01,Cardiology,0,2.43,0.0,Better than expected
+20,2024-04-01,Oncology,6,4.55,1.32,Worse than expected
+21,2024-05-01,General Surgery,1,2.31,0.43,Better than expected
+22,2024-05-01,Orthopedics,10,5.72,1.75,Worse than expected
+23,2024-05-01,OB/GYN,3,2.91,1.03,Worse than expected
+24,2024-05-01,Cardiology,2,4.04,0.5,Better than expected
+25,2024-05-01,Oncology,7,3.35,2.09,Worse than expected
+26,2024-06-01,General Surgery,2,3.99,0.5,Better than expected
+27,2024-06-01,Orthopedics,2,4.44,0.45,Better than expected
+28,2024-06-01,OB/GYN,5,5.63,0.89,Better than expected
+29,2024-06-01,Cardiology,6,5.05,1.19,Worse than expected
+30,2024-06-01,Oncology,2,5.34,0.37,Better than expected
+31,2024-07-01,General Surgery,1,4.36,0.23,Better than expected
+32,2024-07-01,Orthopedics,4,4.05,0.99,Better than expected
+33,2024-07-01,OB/GYN,5,5.75,0.87,Better than expected
+34,2024-07-01,Cardiology,4,4.64,0.86,Better than expected
+35,2024-07-01,Oncology,9,5.59,1.61,Worse than expected
+36,2024-08-01,General Surgery,2,2.65,0.75,Better than expected
+37,2024-08-01,Orthopedics,1,2.41,0.41,Better than expected
+38,2024-08-01,OB/GYN,3,2.64,1.14,Worse than expected
+39,2024-08-01,Cardiology,7,4.85,1.44,Worse than expected
+40,2024-08-01,Oncology,3,3.47,0.86,Better than expected
+41,2024-09-01,General Surgery,7,5.57,1.26,Worse than expected
+42,2024-09-01,Orthopedics,1,2.1,0.48,Better than expected
+43,2024-09-01,OB/GYN,5,5.76,0.87,Better than expected
+44,2024-09-01,Cardiology,7,5.87,1.19,Worse than expected
+45,2024-09-01,Oncology,6,5.74,1.05,Worse than expected
+46,2024-10-01,General Surgery,12,5.51,2.18,Worse than expected
+47,2024-10-01,Orthopedics,5,4.81,1.04,Worse than expected
+48,2024-10-01,OB/GYN,2,2.14,0.93,Better than expected
+49,2024-10-01,Cardiology,1,4.36,0.23,Better than expected
+50,2024-10-01,Oncology,4,5.29,0.76,Better than expected
+51,2024-11-01,General Surgery,1,4.49,0.22,Better than expected
+52,2024-11-01,Orthopedics,7,4.13,1.69,Worse than expected
+53,2024-11-01,OB/GYN,1,3.76,0.27,Better than expected
+54,2024-11-01,Cardiology,5,5.85,0.85,Better than expected
+55,2024-11-01,Oncology,7,4.2,1.67,Worse than expected
+56,2024-12-01,General Surgery,2,2.99,0.67,Better than expected
+57,2024-12-01,Orthopedics,0,2.46,0.0,Better than expected
+58,2024-12-01,OB/GYN,3,2.16,1.39,Worse than expected
+59,2024-12-01,Cardiology,3,3.97,0.76,Better than expected
+60,2024-12-01,Oncology,2,4.46,0.45,Better than expected
+61,2025-01-01,General Surgery,4,4.5,0.89,Better than expected
+62,2025-01-01,Orthopedics,3,4.57,0.66,Better than expected
+63,2025-01-01,OB/GYN,7,3.55,1.97,Worse than expected
+64,2025-01-01,Cardiology,0,2.28,0.0,Better than expected
+65,2025-01-01,Oncology,0,2.07,0.0,Better than expected
+66,2025-02-01,General Surgery,3,4.73,0.63,Better than expected
+67,2025-02-01,Orthopedics,7,5.26,1.33,Worse than expected
+68,2025-02-01,OB/GYN,6,2.71,2.21,Worse than expected
+69,2025-02-01,Cardiology,8,5.72,1.4,Worse than expected
+70,2025-02-01,Oncology,3,5.58,0.54,Better than expected
+71,2025-03-01,General Surgery,6,3.28,1.83,Worse than expected
+72,2025-03-01,Orthopedics,5,4.69,1.07,Worse than expected
+73,2025-03-01,OB/GYN,4,4.2,0.95,Better than expected
+74,2025-03-01,Cardiology,2,5.05,0.4,Better than expected
+75,2025-03-01,Oncology,3,4.8,0.62,Better than expected
+76,2025-04-01,General Surgery,6,2.34,2.56,Worse than expected
+77,2025-04-01,Orthopedics,3,3.51,0.85,Better than expected
+78,2025-04-01,OB/GYN,2,5.63,0.36,Better than expected
+79,2025-04-01,Cardiology,1,3.87,0.26,Better than expected
+80,2025-04-01,Oncology,5,2.47,2.02,Worse than expected
+81,2025-05-01,General Surgery,2,5.47,0.37,Better than expected
+82,2025-05-01,Orthopedics,4,5.88,0.68,Better than expected
+83,2025-05-01,OB/GYN,8,4.22,1.9,Worse than expected
+84,2025-05-01,Cardiology,5,3.12,1.6,Worse than expected
+85,2025-05-01,Oncology,2,3.85,0.52,Better than expected
+86,2025-06-01,General Surgery,12,5.9,2.03,Worse than expected
+87,2025-06-01,Orthopedics,2,5.73,0.35,Better than expected
+88,2025-06-01,OB/GYN,4,3.51,1.14,Worse than expected
+89,2025-06-01,Cardiology,5,5.88,0.85,Better than expected
+90,2025-06-01,Oncology,9,5.46,1.65,Worse than expected
+91,2025-07-01,General Surgery,5,5.82,0.86,Better than expected
+92,2025-07-01,Orthopedics,8,4.69,1.71,Worse than expected
+93,2025-07-01,OB/GYN,3,2.12,1.42,Worse than expected
+94,2025-07-01,Cardiology,0,2.55,0.0,Better than expected
+95,2025-07-01,Oncology,4,3.4,1.18,Worse than expected
+96,2025-08-01,General Surgery,7,4.06,1.72,Worse than expected
+97,2025-08-01,Orthopedics,4,3.03,1.32,Worse than expected
+98,2025-08-01,OB/GYN,1,2.96,0.34,Better than expected
+99,2025-08-01,Cardiology,1,2.51,0.4,Better than expected
+100,2025-08-01,Oncology,5,4.56,1.1,Worse than expected
+101,2025-09-01,General Surgery,0,2.77,0.0,Better than expected
+102,2025-09-01,Orthopedics,1,2.68,0.37,Better than expected
+103,2025-09-01,OB/GYN,1,2.35,0.43,Better than expected
+104,2025-09-01,Cardiology,3,2.83,1.06,Worse than expected
+105,2025-09-01,Oncology,4,5.2,0.77,Better than expected
+106,2025-10-01,General Surgery,3,3.11,0.96,Better than expected
+107,2025-10-01,Orthopedics,5,3.48,1.44,Worse than expected
+108,2025-10-01,OB/GYN,4,3.01,1.33,Worse than expected
+109,2025-10-01,Cardiology,3,3.79,0.79,Better than expected
+110,2025-10-01,Oncology,1,2.08,0.48,Better than expected
+111,2025-11-01,General Surgery,4,3.31,1.21,Worse than expected
+112,2025-11-01,Orthopedics,4,3.99,1.0,As expected
+113,2025-11-01,OB/GYN,2,2.51,0.8,Better than expected
+114,2025-11-01,Cardiology,4,4.28,0.93,Better than expected
+115,2025-11-01,Oncology,1,2.61,0.38,Better than expected
+116,2025-12-01,General Surgery,1,2.75,0.36,Better than expected
+117,2025-12-01,Orthopedics,4,5.59,0.72,Better than expected
+118,2025-12-01,OB/GYN,5,3.59,1.39,Worse than expected
+119,2025-12-01,Cardiology,6,5.72,1.05,Worse than expected
+120,2025-12-01,Oncology,2,4.03,0.5,Better than expected

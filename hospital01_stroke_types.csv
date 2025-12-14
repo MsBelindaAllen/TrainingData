@@ -1,0 +1,7 @@
+StrokeTypeID,StrokeType,Category
+1,Ischemic - Large Vessel Occlusion (LVO),Ischemic
+2,Ischemic - Non-LVO,Ischemic
+3,Hemorrhagic - Intracerebral Hemorrhage (ICH),Hemorrhagic
+4,Hemorrhagic - Subarachnoid Hemorrhage (SAH),Hemorrhagic
+5,Transient Ischemic Attack (TIA),TIA
+6,Stroke Mimic,Other

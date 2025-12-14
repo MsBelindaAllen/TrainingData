@@ -1,0 +1,9 @@
+PayerID,Payer,PayerType
+1,Medicare,Government
+2,Medicaid,Government
+3,Commercial - Aetna,Commercial
+4,Commercial - Blue Cross,Commercial
+5,Commercial - UnitedHealthcare,Commercial
+6,Commercial - Cigna,Commercial
+7,Self-Pay,Self
+8,Other,Other

@@ -1,0 +1,6 @@
+KPI,Target,Direction
+No-Show Rate,0.05,Lower is better
+Cancellation Rate,0.08,Lower is better
+Avg Lead Time (days),14.0,Lower is better
+Readmission 30D Rate,0.07,Lower is better
+SSI Rate (per 100 surgical procedures),2.0,Lower is better

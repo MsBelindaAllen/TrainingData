@@ -1,0 +1,11 @@
+DepartmentID,Department,CareSetting
+1,Emergency Department,ED
+2,Outpatient Clinics,Outpatient
+3,Surgical Services,Inpatient/Outpatient
+4,Imaging & Radiology,Outpatient
+5,Laboratory,Inpatient/Outpatient
+6,Cardiovascular Center,Inpatient/Outpatient
+7,Cancer Center,Inpatient/Outpatient
+8,Women's Health,Outpatient
+9,Pediatrics,Outpatient
+10,Rehab & Therapy,Outpatient
