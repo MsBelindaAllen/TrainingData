@@ -1,0 +1,33 @@
+CourseKey,CourseID,CourseTitle,Department,Credits,CourseLevel,DeliveryMode,BaseTuitionPerCredit,LabRequired
+1,MED101,Medical Terminology,Foundations,3,100,Hybrid,525.0,No
+2,MED102,Human Anatomy I,Foundations,4,100,Hybrid,450.0,No
+3,MED103,Human Physiology I,Foundations,4,100,In Person,450.0,No
+4,MED104,Clinical Documentation,Health Informatics,3,100,In Person,425.0,No
+5,MED105,Introduction to Public Health,Public Health,3,100,In Person,450.0,No
+6,MED106,Biostatistics for Health Sciences,Public Health,3,100,In Person,425.0,No
+7,MED201,Human Anatomy II,Foundations,4,200,Hybrid,425.0,No
+8,MED202,Human Physiology II,Foundations,4,200,In Person,450.0,No
+9,MED203,Microbiology,Lab Sciences,4,200,In Person,550.0,Yes
+10,MED204,Pathophysiology,Lab Sciences,4,200,Hybrid,450.0,Yes
+11,MED205,Health Assessment,Nursing,3,200,Hybrid,450.0,No
+12,MED206,Medical Ethics,Foundations,3,200,In Person,525.0,No
+13,MED301,Pharmacology I,Pharmacy,4,300,In Person,450.0,No
+14,MED302,Pharmacology II,Pharmacy,4,300,In Person,575.0,No
+15,MED303,Epidemiology,Public Health,3,300,In Person,450.0,No
+16,MED304,Nutrition in Clinical Care,Nursing,3,300,In Person,425.0,No
+17,MED305,Healthcare Data Analytics,Health Informatics,3,300,In Person,475.0,No
+18,MED306,Radiographic Principles,Imaging,4,300,In Person,500.0,Yes
+19,MED401,Clinical Practicum I,Clinical,5,400,In Person,575.0,Yes
+20,MED402,Clinical Practicum II,Clinical,5,400,In Person,550.0,Yes
+21,MED403,Advanced Pathology,Lab Sciences,4,400,In Person,425.0,Yes
+22,MED404,Emergency Care Fundamentals,Nursing,4,400,In Person,550.0,No
+23,MED405,Cardiovascular Concepts,Clinical,4,400,In Person,575.0,Yes
+24,MED406,Surgical Procedures,Clinical,4,400,In Person,450.0,Yes
+25,MED407,Population Health Strategy,Public Health,3,400,Hybrid,450.0,No
+26,MED408,Health Systems Leadership,Administration,3,400,In Person,500.0,No
+27,MED409,Medical Coding and Billing,Administration,3,400,In Person,500.0,No
+28,MED410,Patient Safety and Quality,Administration,3,400,In Person,475.0,No
+29,MED411,Telemedicine Operations,Health Informatics,3,400,In Person,450.0,No
+30,MED412,Research Methods in Medicine,Foundations,3,400,Hybrid,500.0,No
+31,MED413,Immunology,Lab Sciences,4,400,In Person,425.0,Yes
+32,MED414,Genetics in Healthcare,Lab Sciences,4,400,Hybrid,550.0,Yes

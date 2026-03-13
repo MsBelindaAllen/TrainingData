@@ -1,0 +1,501 @@
+StudentKey,StudentID,StudentName,ProgramMajor,StartYear,StudentType,ResidencyStatus,ScholarshipPercent,State,Status
+1,S00001,Ava Smith,Healthcare Administration,2024,Undergraduate,Out-of-State,30,AL,Active
+2,S00002,Michael Rodriguez,Pre-Med,2026,Undergraduate,Out-of-State,15,AL,Active
+3,S00003,Zoey Nelson,Biomedical Sciences,2026,Undergraduate,In-State,15,SC,Active
+4,S00004,Abigail Adams,Nursing,2025,Undergraduate,In-State,50,AL,Active
+5,S00005,Wyatt Moore,Nursing,2023,Undergraduate,In-State,50,GA,Active
+6,S00006,Michael Davis,Radiologic Sciences,2024,Certificate,International,0,GA,Active
+7,S00007,Abigail Hill,Radiologic Sciences,2025,Undergraduate,In-State,20,SC,Active
+8,S00008,Michael Miller,Biomedical Sciences,2025,Graduate,In-State,0,FL,Active
+9,S00009,Avery Hill,Nursing,2023,Graduate,In-State,40,TX,Active
+10,S00010,Jack Johnson,Pre-Med,2025,Undergraduate,In-State,30,TX,Leave of Absence
+11,S00011,Wyatt Carter,Biomedical Sciences,2025,Undergraduate,In-State,15,GA,Active
+12,S00012,Lillian Wilson,Public Health,2025,Certificate,In-State,20,SC,Active
+13,S00013,Mateo Scott,Public Health,2023,Undergraduate,Out-of-State,15,FL,Active
+14,S00014,Henry Miller,Biomedical Sciences,2025,Undergraduate,Out-of-State,40,TN,Active
+15,S00015,Ava Davis,Nursing,2024,Graduate,In-State,20,NC,Active
+16,S00016,Isabella Patel,Public Health,2025,Undergraduate,In-State,10,SC,Active
+17,S00017,Jack Nelson,Healthcare Administration,2026,Certificate,In-State,10,NC,Active
+18,S00018,Chloe Nguyen,Pre-Med,2025,Undergraduate,In-State,15,NC,Active
+19,S00019,Daniel Patel,Healthcare Administration,2026,Undergraduate,In-State,30,VA,Active
+20,S00020,Mason Jackson,Nursing,2024,Undergraduate,In-State,15,GA,Active
+21,S00021,Jack Green,Health Informatics,2025,Undergraduate,In-State,15,NC,Leave of Absence
+22,S00022,Harper Patel,Nursing,2026,Undergraduate,In-State,25,GA,Active
+23,S00023,Penelope Anderson,Public Health,2023,Undergraduate,In-State,40,SC,Active
+24,S00024,Zoey Johnson,Biomedical Sciences,2025,Certificate,In-State,0,TX,Active
+25,S00025,Scarlett Hall,Public Health,2026,Undergraduate,Out-of-State,0,SC,Active
+26,S00026,Daniel Taylor,Radiologic Sciences,2025,Undergraduate,Out-of-State,0,TX,Active
+27,S00027,Lucas Allen,Healthcare Administration,2025,Graduate,Out-of-State,30,SC,Active
+28,S00028,Leo Moore,Biomedical Sciences,2023,Undergraduate,Out-of-State,50,VA,Active
+29,S00029,Evelyn Garcia,Pre-Med,2024,Undergraduate,In-State,0,SC,Active
+30,S00030,Avery Johnson,Health Informatics,2026,Certificate,In-State,25,AL,Active
+31,S00031,Evelyn Wilson,Biomedical Sciences,2023,Undergraduate,Out-of-State,10,NC,Active
+32,S00032,Layla Rodriguez,Radiologic Sciences,2024,Undergraduate,Out-of-State,0,AL,Active
+33,S00033,Lillian Mitchell,Public Health,2026,Certificate,Out-of-State,25,AL,Active
+34,S00034,Leo Young,Public Health,2024,Undergraduate,Out-of-State,30,SC,Active
+35,S00035,Nora Johnson,Biomedical Sciences,2025,Undergraduate,In-State,20,VA,Active
+36,S00036,Sophia Miller,Pre-Med,2024,Undergraduate,In-State,10,GA,Active
+37,S00037,Chloe Robinson,Radiologic Sciences,2026,Undergraduate,In-State,10,TN,Active
+38,S00038,Abigail Nguyen,Healthcare Administration,2026,Graduate,In-State,20,TX,Active
+39,S00039,Chloe Adams,Biomedical Sciences,2024,Graduate,In-State,15,TN,Active
+40,S00040,Liam Lee,Public Health,2026,Undergraduate,Out-of-State,0,FL,Active
+41,S00041,Abigail Hill,Biomedical Sciences,2023,Undergraduate,Out-of-State,0,AL,Active
+42,S00042,Emma Harris,Health Informatics,2025,Undergraduate,Out-of-State,20,VA,Active
+43,S00043,Ella Hall,Public Health,2023,Graduate,In-State,40,FL,Active
+44,S00044,Mason Johnson,Healthcare Administration,2023,Undergraduate,In-State,10,FL,Leave of Absence
+45,S00045,Charlotte White,Pre-Med,2026,Undergraduate,International,10,AL,Active
+46,S00046,Levi Moore,Radiologic Sciences,2023,Undergraduate,In-State,0,FL,Active
+47,S00047,Penelope Lee,Health Informatics,2024,Undergraduate,International,10,GA,Active
+48,S00048,Sebastian Davis,Healthcare Administration,2023,Undergraduate,Out-of-State,25,VA,Active
+49,S00049,Mateo Robinson,Nursing,2026,Graduate,In-State,25,VA,Active
+50,S00050,Charlotte Allen,Pre-Med,2025,Certificate,Out-of-State,30,AL,Active
+51,S00051,Abigail Martin,Public Health,2024,Undergraduate,In-State,30,SC,Active
+52,S00052,Penelope Roberts,Biomedical Sciences,2026,Undergraduate,In-State,30,VA,Active
+53,S00053,Julian Thomas,Public Health,2025,Undergraduate,In-State,50,TX,Active
+54,S00054,Ava Baker,Pre-Med,2023,Undergraduate,Out-of-State,30,SC,Active
+55,S00055,Julian Young,Healthcare Administration,2023,Undergraduate,In-State,10,TN,Active
+56,S00056,Scarlett Campbell,Public Health,2026,Graduate,Out-of-State,20,TN,Active
+57,S00057,Henry Clark,Biomedical Sciences,2026,Undergraduate,In-State,15,SC,Active
+58,S00058,Elijah Martinez,Nursing,2024,Undergraduate,In-State,30,TX,Leave of Absence
+59,S00059,Wyatt Mitchell,Public Health,2023,Undergraduate,In-State,10,VA,Active
+60,S00060,Scarlett Carter,Biomedical Sciences,2024,Undergraduate,In-State,0,TX,Active
+61,S00061,Julian Brown,Healthcare Administration,2023,Certificate,In-State,30,AL,Active
+62,S00062,Henry Taylor,Nursing,2025,Graduate,In-State,0,TN,Active
+63,S00063,Olivia Hill,Biomedical Sciences,2023,Undergraduate,In-State,50,TX,Active
+64,S00064,Evelyn Davis,Radiologic Sciences,2026,Certificate,International,50,SC,Active
+65,S00065,Daniel Young,Health Informatics,2025,Certificate,Out-of-State,15,FL,Leave of Absence
+66,S00066,Mia Thomas,Biomedical Sciences,2024,Undergraduate,In-State,0,SC,Active
+67,S00067,Lillian Johnson,Pre-Med,2023,Undergraduate,Out-of-State,50,AL,Active
+68,S00068,Noah Jackson,Public Health,2025,Graduate,In-State,10,TX,Leave of Absence
+69,S00069,Elijah Allen,Nursing,2024,Undergraduate,In-State,0,GA,Active
+70,S00070,Amelia Garcia,Radiologic Sciences,2025,Graduate,In-State,30,TX,Active
+71,S00071,Ella Green,Radiologic Sciences,2026,Graduate,In-State,50,FL,Active
+72,S00072,Grace Mitchell,Public Health,2023,Undergraduate,In-State,50,FL,Active
+73,S00073,Penelope Patel,Healthcare Administration,2024,Graduate,Out-of-State,30,TX,Active
+74,S00074,Abigail Allen,Biomedical Sciences,2026,Undergraduate,Out-of-State,20,TN,Active
+75,S00075,Grace Brown,Healthcare Administration,2024,Undergraduate,Out-of-State,30,TX,Active
+76,S00076,Lillian Patel,Health Informatics,2023,Undergraduate,In-State,20,GA,Active
+77,S00077,Mateo Carter,Biomedical Sciences,2026,Undergraduate,In-State,10,VA,Leave of Absence
+78,S00078,Julian Young,Healthcare Administration,2023,Undergraduate,In-State,40,NC,Active
+79,S00079,Nora Scott,Nursing,2023,Certificate,In-State,0,TX,Active
+80,S00080,Ava Nelson,Health Informatics,2023,Undergraduate,In-State,30,GA,Active
+81,S00081,Julian Thompson,Radiologic Sciences,2025,Undergraduate,Out-of-State,30,SC,Active
+82,S00082,Lillian Wilson,Health Informatics,2024,Certificate,Out-of-State,0,GA,Active
+83,S00083,Chloe Robinson,Healthcare Administration,2025,Undergraduate,In-State,15,AL,Active
+84,S00084,Nora Adams,Health Informatics,2025,Undergraduate,Out-of-State,40,TN,Active
+85,S00085,Grace Anderson,Biomedical Sciences,2024,Certificate,Out-of-State,10,TN,Active
+86,S00086,Grace Wright,Biomedical Sciences,2026,Undergraduate,In-State,30,FL,Active
+87,S00087,Mateo Campbell,Public Health,2023,Graduate,In-State,40,AL,Active
+88,S00088,Charlotte Hall,Healthcare Administration,2024,Undergraduate,Out-of-State,15,VA,Leave of Absence
+89,S00089,Michael Smith,Healthcare Administration,2025,Graduate,Out-of-State,20,AL,Active
+90,S00090,Noah Roberts,Nursing,2024,Undergraduate,In-State,0,TN,Active
+91,S00091,Mia Young,Pre-Med,2025,Undergraduate,In-State,20,FL,Active
+92,S00092,Jack Lewis,Health Informatics,2024,Undergraduate,Out-of-State,25,NC,Active
+93,S00093,Benjamin Smith,Radiologic Sciences,2026,Certificate,In-State,30,NC,Active
+94,S00094,Layla Harris,Health Informatics,2025,Undergraduate,Out-of-State,15,NC,Active
+95,S00095,Nora Clark,Radiologic Sciences,2025,Undergraduate,In-State,30,TX,Active
+96,S00096,Daniel Wright,Nursing,2024,Undergraduate,International,20,TX,Active
+97,S00097,Liam Walker,Public Health,2023,Certificate,In-State,50,AL,Active
+98,S00098,Mason Mitchell,Healthcare Administration,2025,Undergraduate,In-State,50,TX,Active
+99,S00099,Mia Patel,Public Health,2026,Undergraduate,International,20,NC,Active
+100,S00100,Aria Martinez,Biomedical Sciences,2026,Undergraduate,In-State,0,VA,Active
+101,S00101,Mateo Martin,Healthcare Administration,2024,Undergraduate,Out-of-State,15,VA,Active
+102,S00102,Layla Johnson,Pre-Med,2024,Undergraduate,Out-of-State,20,GA,Active
+103,S00103,Ava Harris,Radiologic Sciences,2023,Graduate,In-State,15,TN,Active
+104,S00104,Mia Jackson,Health Informatics,2023,Certificate,Out-of-State,20,SC,Active
+105,S00105,Layla Garcia,Biomedical Sciences,2026,Undergraduate,In-State,0,FL,Active
+106,S00106,Julian Davis,Nursing,2024,Graduate,In-State,25,AL,Active
+107,S00107,Hannah Hall,Radiologic Sciences,2024,Undergraduate,In-State,30,TN,Active
+108,S00108,Noah Lewis,Pre-Med,2026,Graduate,In-State,20,GA,Active
+109,S00109,Hannah Clark,Nursing,2026,Undergraduate,In-State,0,AL,Active
+110,S00110,Lucas Mitchell,Nursing,2023,Undergraduate,In-State,0,SC,Active
+111,S00111,Lillian Thomas,Radiologic Sciences,2024,Undergraduate,In-State,0,FL,Active
+112,S00112,Charlotte Miller,Radiologic Sciences,2025,Undergraduate,In-State,0,NC,Active
+113,S00113,Jack White,Radiologic Sciences,2025,Undergraduate,In-State,15,FL,Active
+114,S00114,Chloe Baker,Nursing,2023,Graduate,Out-of-State,20,GA,Active
+115,S00115,Mateo Jackson,Radiologic Sciences,2023,Graduate,In-State,30,FL,Active
+116,S00116,Leo Walker,Health Informatics,2023,Graduate,Out-of-State,0,GA,Active
+117,S00117,Sebastian Wilson,Nursing,2024,Undergraduate,International,50,VA,Active
+118,S00118,Sebastian Baker,Public Health,2026,Graduate,International,25,GA,Active
+119,S00119,Lillian Thomas,Health Informatics,2026,Undergraduate,Out-of-State,20,AL,Active
+120,S00120,Chloe Brown,Public Health,2026,Undergraduate,In-State,20,NC,Active
+121,S00121,Olivia Smith,Healthcare Administration,2023,Undergraduate,Out-of-State,0,VA,Active
+122,S00122,Lillian Rodriguez,Radiologic Sciences,2025,Undergraduate,Out-of-State,20,TN,Active
+123,S00123,Aria Mitchell,Public Health,2025,Undergraduate,International,40,SC,Active
+124,S00124,Leo Jackson,Healthcare Administration,2023,Undergraduate,Out-of-State,20,GA,Active
+125,S00125,Penelope Jackson,Healthcare Administration,2026,Graduate,International,50,FL,Leave of Absence
+126,S00126,Ella Nguyen,Pre-Med,2025,Undergraduate,In-State,20,FL,Active
+127,S00127,Charlotte Hill,Biomedical Sciences,2026,Undergraduate,In-State,0,GA,Active
+128,S00128,Lucas Lee,Health Informatics,2026,Undergraduate,In-State,20,TX,Active
+129,S00129,Penelope Mitchell,Nursing,2023,Undergraduate,In-State,50,FL,Active
+130,S00130,Ella Young,Biomedical Sciences,2026,Graduate,International,30,TN,Active
+131,S00131,Lucas Green,Nursing,2025,Undergraduate,In-State,15,AL,Active
+132,S00132,Scarlett Patel,Pre-Med,2026,Certificate,In-State,0,SC,Active
+133,S00133,Lucas Miller,Healthcare Administration,2025,Undergraduate,In-State,0,FL,Active
+134,S00134,Zoey Taylor,Pre-Med,2026,Graduate,In-State,40,VA,Active
+135,S00135,Michael Patel,Health Informatics,2023,Graduate,In-State,20,TN,Leave of Absence
+136,S00136,Michael Hall,Public Health,2023,Undergraduate,In-State,20,NC,Leave of Absence
+137,S00137,Layla Lewis,Nursing,2026,Undergraduate,In-State,25,TN,Active
+138,S00138,Sophia Walker,Healthcare Administration,2025,Undergraduate,In-State,20,NC,Active
+139,S00139,Mateo Davis,Radiologic Sciences,2024,Undergraduate,In-State,0,SC,Active
+140,S00140,Charlotte Harris,Pre-Med,2024,Certificate,In-State,0,NC,Active
+141,S00141,Layla Hill,Healthcare Administration,2026,Certificate,International,20,VA,Active
+142,S00142,Nora Johnson,Health Informatics,2026,Undergraduate,In-State,50,FL,Active
+143,S00143,Mateo Johnson,Public Health,2026,Graduate,In-State,0,VA,Active
+144,S00144,Olivia Smith,Radiologic Sciences,2026,Graduate,International,40,FL,Active
+145,S00145,Penelope Anderson,Public Health,2026,Graduate,In-State,0,AL,Active
+146,S00146,Henry Smith,Radiologic Sciences,2024,Undergraduate,In-State,30,AL,Active
+147,S00147,Wyatt Roberts,Pre-Med,2025,Undergraduate,In-State,25,TN,Active
+148,S00148,Sebastian Rodriguez,Healthcare Administration,2025,Undergraduate,In-State,0,TN,Active
+149,S00149,Harper Mitchell,Healthcare Administration,2024,Undergraduate,In-State,50,NC,Active
+150,S00150,Scarlett Walker,Pre-Med,2023,Undergraduate,Out-of-State,25,VA,Active
+151,S00151,Wyatt Smith,Biomedical Sciences,2026,Graduate,In-State,0,VA,Active
+152,S00152,Benjamin Thomas,Public Health,2026,Undergraduate,In-State,0,NC,Active
+153,S00153,Aria Brown,Radiologic Sciences,2023,Undergraduate,International,0,TN,Active
+154,S00154,Amelia Taylor,Healthcare Administration,2024,Graduate,In-State,25,VA,Active
+155,S00155,Nora Roberts,Public Health,2026,Undergraduate,Out-of-State,10,TX,Active
+156,S00156,Elijah Lewis,Biomedical Sciences,2026,Graduate,In-State,25,TN,Active
+157,S00157,Elijah Mitchell,Pre-Med,2025,Undergraduate,Out-of-State,20,GA,Active
+158,S00158,James Thompson,Nursing,2024,Undergraduate,Out-of-State,40,NC,Active
+159,S00159,Sophia Jackson,Healthcare Administration,2026,Undergraduate,In-State,25,FL,Active
+160,S00160,Mateo Lewis,Pre-Med,2026,Undergraduate,In-State,10,FL,Active
+161,S00161,Mia Robinson,Healthcare Administration,2024,Undergraduate,In-State,15,AL,Active
+162,S00162,Leo Young,Radiologic Sciences,2023,Undergraduate,In-State,15,SC,Active
+163,S00163,Lillian Mitchell,Radiologic Sciences,2026,Undergraduate,In-State,10,TX,Active
+164,S00164,Emma White,Health Informatics,2026,Undergraduate,In-State,30,FL,Active
+165,S00165,Penelope White,Biomedical Sciences,2024,Undergraduate,Out-of-State,0,VA,Active
+166,S00166,Penelope Hall,Pre-Med,2023,Graduate,In-State,0,FL,Active
+167,S00167,Leo Patel,Biomedical Sciences,2026,Undergraduate,In-State,0,VA,Active
+168,S00168,Jack White,Biomedical Sciences,2023,Certificate,In-State,0,FL,Active
+169,S00169,Hannah Robinson,Healthcare Administration,2024,Graduate,Out-of-State,0,NC,Active
+170,S00170,Layla Patel,Public Health,2024,Undergraduate,In-State,0,VA,Active
+171,S00171,Mateo Walker,Healthcare Administration,2026,Undergraduate,In-State,10,TX,Active
+172,S00172,Emma Robinson,Public Health,2023,Undergraduate,Out-of-State,25,AL,Active
+173,S00173,Henry Taylor,Health Informatics,2026,Undergraduate,Out-of-State,15,GA,Active
+174,S00174,Sophia Allen,Radiologic Sciences,2024,Graduate,In-State,20,GA,Active
+175,S00175,Grace Thompson,Public Health,2026,Certificate,Out-of-State,0,AL,Active
+176,S00176,Nora Patel,Biomedical Sciences,2025,Certificate,Out-of-State,15,FL,Active
+177,S00177,Michael Lewis,Radiologic Sciences,2024,Undergraduate,In-State,50,AL,Active
+178,S00178,Isabella Johnson,Pre-Med,2025,Undergraduate,Out-of-State,50,FL,Leave of Absence
+179,S00179,Charlotte Young,Public Health,2025,Graduate,In-State,50,NC,Active
+180,S00180,Levi Walker,Public Health,2025,Undergraduate,In-State,0,NC,Active
+181,S00181,Wyatt Lee,Radiologic Sciences,2023,Undergraduate,In-State,30,SC,Leave of Absence
+182,S00182,Aria Scott,Pre-Med,2023,Undergraduate,In-State,30,NC,Active
+183,S00183,Sophia Martinez,Biomedical Sciences,2025,Undergraduate,Out-of-State,40,TX,Active
+184,S00184,Amelia Taylor,Healthcare Administration,2025,Graduate,In-State,0,SC,Active
+185,S00185,Evelyn Scott,Nursing,2025,Graduate,International,20,AL,Active
+186,S00186,Isabella Roberts,Nursing,2023,Undergraduate,Out-of-State,30,TN,Active
+187,S00187,Penelope Johnson,Pre-Med,2025,Undergraduate,Out-of-State,30,VA,Active
+188,S00188,Lillian Campbell,Pre-Med,2024,Undergraduate,Out-of-State,0,GA,Active
+189,S00189,Charlotte Garcia,Pre-Med,2024,Undergraduate,In-State,20,TX,Active
+190,S00190,Harper Anderson,Biomedical Sciences,2025,Undergraduate,In-State,50,GA,Active
+191,S00191,Amelia Campbell,Radiologic Sciences,2024,Undergraduate,International,50,VA,Leave of Absence
+192,S00192,Noah Nguyen,Nursing,2023,Certificate,In-State,10,TN,Leave of Absence
+193,S00193,Liam Scott,Biomedical Sciences,2025,Undergraduate,Out-of-State,10,TN,Active
+194,S00194,Layla Johnson,Biomedical Sciences,2023,Undergraduate,Out-of-State,25,AL,Active
+195,S00195,Lucas Robinson,Radiologic Sciences,2024,Undergraduate,In-State,20,TN,Active
+196,S00196,Levi Green,Radiologic Sciences,2023,Undergraduate,In-State,30,GA,Active
+197,S00197,Nora White,Pre-Med,2023,Undergraduate,In-State,25,TN,Active
+198,S00198,Amelia Martinez,Radiologic Sciences,2025,Undergraduate,In-State,30,AL,Active
+199,S00199,Scarlett Scott,Nursing,2023,Undergraduate,Out-of-State,30,SC,Active
+200,S00200,Abigail Clark,Nursing,2023,Undergraduate,Out-of-State,50,AL,Active
+201,S00201,Hannah Carter,Healthcare Administration,2023,Undergraduate,In-State,15,VA,Active
+202,S00202,Levi Patel,Health Informatics,2023,Certificate,Out-of-State,10,VA,Active
+203,S00203,Aria Johnson,Health Informatics,2026,Graduate,In-State,50,GA,Active
+204,S00204,Mia Walker,Public Health,2025,Graduate,In-State,0,SC,Leave of Absence
+205,S00205,Mateo Walker,Radiologic Sciences,2023,Undergraduate,In-State,0,VA,Active
+206,S00206,Wyatt King,Pre-Med,2024,Undergraduate,International,20,NC,Active
+207,S00207,Avery Garcia,Radiologic Sciences,2025,Graduate,Out-of-State,40,AL,Leave of Absence
+208,S00208,Scarlett Wright,Healthcare Administration,2023,Undergraduate,In-State,0,TN,Leave of Absence
+209,S00209,Scarlett Nguyen,Radiologic Sciences,2026,Undergraduate,International,50,SC,Active
+210,S00210,Abigail Wright,Pre-Med,2026,Undergraduate,In-State,0,GA,Active
+211,S00211,Liam Young,Public Health,2026,Undergraduate,Out-of-State,10,TN,Active
+212,S00212,Avery Wright,Healthcare Administration,2023,Undergraduate,Out-of-State,10,VA,Active
+213,S00213,Wyatt Lee,Public Health,2024,Graduate,Out-of-State,20,VA,Active
+214,S00214,Avery Wright,Pre-Med,2024,Undergraduate,Out-of-State,15,SC,Active
+215,S00215,Aria Thomas,Biomedical Sciences,2026,Undergraduate,Out-of-State,20,TX,Active
+216,S00216,James Hill,Biomedical Sciences,2026,Undergraduate,In-State,0,TX,Active
+217,S00217,Aria Smith,Public Health,2026,Undergraduate,Out-of-State,10,SC,Active
+218,S00218,Ella Nelson,Biomedical Sciences,2025,Undergraduate,In-State,50,SC,Active
+219,S00219,Emma Baker,Pre-Med,2024,Undergraduate,In-State,25,VA,Active
+220,S00220,Mia Miller,Nursing,2024,Undergraduate,Out-of-State,30,SC,Active
+221,S00221,Grace Thompson,Biomedical Sciences,2023,Undergraduate,International,10,FL,Active
+222,S00222,Chloe Taylor,Nursing,2026,Graduate,In-State,15,FL,Active
+223,S00223,Scarlett Hill,Radiologic Sciences,2023,Undergraduate,In-State,30,AL,Active
+224,S00224,Mateo King,Public Health,2024,Undergraduate,In-State,0,AL,Active
+225,S00225,Benjamin Carter,Biomedical Sciences,2025,Undergraduate,International,10,NC,Leave of Absence
+226,S00226,Michael Allen,Radiologic Sciences,2025,Undergraduate,Out-of-State,0,NC,Active
+227,S00227,Leo Martinez,Pre-Med,2023,Undergraduate,Out-of-State,10,AL,Active
+228,S00228,Henry Garcia,Radiologic Sciences,2023,Undergraduate,In-State,10,FL,Active
+229,S00229,Layla Garcia,Pre-Med,2026,Graduate,In-State,0,TX,Active
+230,S00230,Avery Jackson,Pre-Med,2024,Graduate,In-State,30,VA,Active
+231,S00231,Lillian Wright,Healthcare Administration,2024,Undergraduate,International,0,AL,Active
+232,S00232,Levi Johnson,Radiologic Sciences,2023,Undergraduate,Out-of-State,40,SC,Leave of Absence
+233,S00233,Hannah Wilson,Pre-Med,2025,Graduate,Out-of-State,0,SC,Leave of Absence
+234,S00234,Julian Smith,Radiologic Sciences,2026,Undergraduate,Out-of-State,0,TN,Active
+235,S00235,Penelope Rodriguez,Radiologic Sciences,2026,Undergraduate,In-State,25,TX,Active
+236,S00236,Lucas Campbell,Nursing,2023,Undergraduate,In-State,0,FL,Active
+237,S00237,Leo Patel,Public Health,2026,Undergraduate,In-State,25,VA,Active
+238,S00238,Nora Lee,Health Informatics,2023,Graduate,In-State,20,GA,Active
+239,S00239,Hannah Walker,Radiologic Sciences,2024,Undergraduate,In-State,0,TX,Active
+240,S00240,Hannah Allen,Radiologic Sciences,2026,Undergraduate,In-State,30,VA,Active
+241,S00241,Ella Anderson,Biomedical Sciences,2023,Undergraduate,Out-of-State,50,FL,Active
+242,S00242,Lucas Johnson,Nursing,2023,Graduate,International,0,SC,Active
+243,S00243,Michael Young,Pre-Med,2024,Undergraduate,In-State,40,TX,Active
+244,S00244,Penelope Martinez,Radiologic Sciences,2025,Undergraduate,In-State,0,SC,Active
+245,S00245,Scarlett Martin,Nursing,2024,Undergraduate,Out-of-State,30,FL,Active
+246,S00246,Daniel Baker,Public Health,2026,Undergraduate,In-State,15,TN,Active
+247,S00247,Hannah Wright,Pre-Med,2024,Undergraduate,In-State,30,FL,Active
+248,S00248,Chloe Hall,Radiologic Sciences,2024,Undergraduate,In-State,15,SC,Active
+249,S00249,Sophia Young,Healthcare Administration,2025,Undergraduate,Out-of-State,10,FL,Active
+250,S00250,Daniel Mitchell,Radiologic Sciences,2023,Undergraduate,In-State,50,SC,Active
+251,S00251,Lucas Robinson,Public Health,2023,Undergraduate,In-State,0,AL,Active
+252,S00252,Sebastian Thomas,Health Informatics,2024,Graduate,In-State,15,TN,Active
+253,S00253,Hannah Clark,Public Health,2025,Undergraduate,Out-of-State,30,AL,Active
+254,S00254,Leo Martinez,Pre-Med,2025,Undergraduate,Out-of-State,0,SC,Active
+255,S00255,Liam Harris,Radiologic Sciences,2026,Undergraduate,In-State,10,VA,Active
+256,S00256,Daniel Hill,Healthcare Administration,2024,Graduate,Out-of-State,20,TX,Active
+257,S00257,Julian King,Pre-Med,2025,Undergraduate,In-State,40,AL,Active
+258,S00258,Hannah Rodriguez,Radiologic Sciences,2023,Undergraduate,In-State,0,TN,Active
+259,S00259,Mason Johnson,Biomedical Sciences,2024,Undergraduate,In-State,40,AL,Active
+260,S00260,Emma Roberts,Biomedical Sciences,2026,Graduate,In-State,0,TN,Active
+261,S00261,Liam Baker,Biomedical Sciences,2025,Graduate,In-State,0,TN,Active
+262,S00262,Mia Brown,Radiologic Sciences,2024,Undergraduate,In-State,50,TX,Active
+263,S00263,Ella Walker,Nursing,2025,Undergraduate,Out-of-State,50,SC,Active
+264,S00264,Scarlett Smith,Biomedical Sciences,2023,Undergraduate,Out-of-State,25,TN,Active
+265,S00265,Leo Rodriguez,Biomedical Sciences,2023,Undergraduate,In-State,30,TN,Active
+266,S00266,Penelope Brown,Radiologic Sciences,2023,Undergraduate,In-State,50,AL,Active
+267,S00267,Noah Johnson,Biomedical Sciences,2025,Graduate,International,0,NC,Active
+268,S00268,Liam Thomas,Radiologic Sciences,2024,Undergraduate,In-State,15,NC,Leave of Absence
+269,S00269,Evelyn Hill,Healthcare Administration,2026,Graduate,In-State,25,NC,Active
+270,S00270,Mateo Clark,Nursing,2023,Undergraduate,In-State,0,VA,Leave of Absence
+271,S00271,Avery Mitchell,Health Informatics,2025,Undergraduate,In-State,30,AL,Active
+272,S00272,Jack Nelson,Health Informatics,2026,Undergraduate,International,25,GA,Leave of Absence
+273,S00273,Aria White,Biomedical Sciences,2023,Undergraduate,In-State,0,TN,Active
+274,S00274,Daniel Martinez,Public Health,2023,Undergraduate,In-State,15,AL,Active
+275,S00275,Ella Brown,Pre-Med,2023,Undergraduate,Out-of-State,30,TN,Active
+276,S00276,Liam Smith,Public Health,2023,Certificate,International,20,TN,Active
+277,S00277,Aria Hall,Health Informatics,2023,Graduate,In-State,50,NC,Active
+278,S00278,Amelia Miller,Public Health,2025,Undergraduate,Out-of-State,0,GA,Active
+279,S00279,Zoey Martin,Health Informatics,2025,Graduate,In-State,20,TX,Active
+280,S00280,Julian Mitchell,Radiologic Sciences,2024,Graduate,In-State,0,TX,Active
+281,S00281,Michael Robinson,Healthcare Administration,2026,Undergraduate,Out-of-State,20,TN,Leave of Absence
+282,S00282,Isabella Garcia,Public Health,2024,Graduate,In-State,0,TN,Active
+283,S00283,Aria Scott,Radiologic Sciences,2024,Undergraduate,Out-of-State,15,TN,Active
+284,S00284,James Hill,Pre-Med,2024,Graduate,In-State,30,SC,Active
+285,S00285,Aria Johnson,Healthcare Administration,2026,Graduate,In-State,15,SC,Active
+286,S00286,Charlotte Allen,Healthcare Administration,2026,Undergraduate,Out-of-State,50,AL,Leave of Absence
+287,S00287,Michael Adams,Radiologic Sciences,2026,Graduate,In-State,20,GA,Active
+288,S00288,Evelyn Clark,Pre-Med,2023,Certificate,Out-of-State,20,TN,Active
+289,S00289,Ava Brown,Public Health,2024,Graduate,Out-of-State,40,SC,Active
+290,S00290,Levi Walker,Health Informatics,2024,Undergraduate,In-State,30,GA,Active
+291,S00291,Chloe Smith,Nursing,2024,Undergraduate,In-State,20,AL,Active
+292,S00292,Wyatt Wright,Public Health,2026,Undergraduate,Out-of-State,30,VA,Active
+293,S00293,Scarlett Patel,Healthcare Administration,2023,Undergraduate,In-State,0,NC,Active
+294,S00294,Wyatt Taylor,Radiologic Sciences,2024,Undergraduate,Out-of-State,25,AL,Active
+295,S00295,Michael Taylor,Pre-Med,2026,Undergraduate,In-State,50,SC,Active
+296,S00296,Abigail Allen,Health Informatics,2023,Undergraduate,In-State,15,GA,Leave of Absence
+297,S00297,Mia Adams,Pre-Med,2025,Undergraduate,In-State,30,GA,Active
+298,S00298,Julian Baker,Biomedical Sciences,2025,Certificate,Out-of-State,50,TN,Leave of Absence
+299,S00299,James Clark,Public Health,2026,Certificate,In-State,15,GA,Active
+300,S00300,Grace Davis,Pre-Med,2025,Undergraduate,In-State,20,NC,Active
+301,S00301,Daniel Hall,Radiologic Sciences,2024,Certificate,Out-of-State,25,NC,Active
+302,S00302,Hannah Taylor,Radiologic Sciences,2024,Graduate,In-State,0,NC,Active
+303,S00303,Nora Roberts,Nursing,2025,Undergraduate,Out-of-State,0,SC,Active
+304,S00304,Lillian Green,Biomedical Sciences,2026,Undergraduate,Out-of-State,25,AL,Active
+305,S00305,Amelia Smith,Radiologic Sciences,2023,Undergraduate,In-State,0,TX,Active
+306,S00306,Hannah Thompson,Pre-Med,2026,Certificate,Out-of-State,40,GA,Leave of Absence
+307,S00307,James Martin,Healthcare Administration,2025,Graduate,In-State,30,SC,Active
+308,S00308,Mia White,Public Health,2023,Graduate,In-State,20,GA,Active
+309,S00309,James White,Pre-Med,2025,Certificate,Out-of-State,0,NC,Active
+310,S00310,Lucas Rodriguez,Radiologic Sciences,2025,Graduate,In-State,50,NC,Active
+311,S00311,Aria Thompson,Radiologic Sciences,2025,Graduate,In-State,0,TN,Active
+312,S00312,Ella Miller,Biomedical Sciences,2024,Undergraduate,In-State,20,SC,Active
+313,S00313,Julian Wilson,Radiologic Sciences,2025,Undergraduate,Out-of-State,30,GA,Active
+314,S00314,Michael Green,Biomedical Sciences,2025,Undergraduate,Out-of-State,30,VA,Leave of Absence
+315,S00315,Ava Smith,Biomedical Sciences,2026,Undergraduate,In-State,40,TN,Active
+316,S00316,Zoey Thomas,Health Informatics,2025,Undergraduate,In-State,20,NC,Leave of Absence
+317,S00317,Julian Robinson,Biomedical Sciences,2023,Undergraduate,In-State,30,FL,Active
+318,S00318,Amelia Young,Health Informatics,2023,Undergraduate,In-State,0,TX,Active
+319,S00319,Ella Smith,Biomedical Sciences,2025,Undergraduate,In-State,20,NC,Active
+320,S00320,Michael Garcia,Biomedical Sciences,2024,Undergraduate,In-State,0,FL,Active
+321,S00321,Leo Johnson,Pre-Med,2024,Graduate,Out-of-State,0,FL,Active
+322,S00322,James Allen,Biomedical Sciences,2024,Graduate,In-State,10,TN,Active
+323,S00323,Mia Brown,Public Health,2025,Undergraduate,In-State,25,NC,Active
+324,S00324,Olivia Baker,Radiologic Sciences,2023,Certificate,In-State,30,VA,Active
+325,S00325,Charlotte Hall,Radiologic Sciences,2026,Undergraduate,In-State,0,NC,Active
+326,S00326,Abigail Lee,Public Health,2026,Undergraduate,In-State,10,TX,Active
+327,S00327,Evelyn Nelson,Radiologic Sciences,2025,Undergraduate,In-State,10,SC,Active
+328,S00328,Aria Rodriguez,Healthcare Administration,2024,Graduate,Out-of-State,0,SC,Active
+329,S00329,Sebastian Johnson,Radiologic Sciences,2023,Undergraduate,In-State,0,TN,Leave of Absence
+330,S00330,Chloe Lewis,Radiologic Sciences,2024,Graduate,In-State,0,GA,Active
+331,S00331,Harper Thomas,Nursing,2023,Undergraduate,Out-of-State,15,TN,Active
+332,S00332,Michael Smith,Biomedical Sciences,2024,Undergraduate,In-State,15,GA,Active
+333,S00333,Lucas Wilson,Radiologic Sciences,2025,Undergraduate,International,0,TX,Active
+334,S00334,Evelyn Rodriguez,Pre-Med,2023,Undergraduate,In-State,30,FL,Active
+335,S00335,Benjamin Davis,Nursing,2024,Undergraduate,In-State,30,VA,Active
+336,S00336,Wyatt Harris,Pre-Med,2025,Undergraduate,In-State,0,FL,Active
+337,S00337,Zoey Martin,Radiologic Sciences,2023,Undergraduate,International,0,AL,Active
+338,S00338,Mateo Lewis,Nursing,2026,Certificate,In-State,20,NC,Active
+339,S00339,Mia Hill,Biomedical Sciences,2023,Undergraduate,Out-of-State,0,FL,Active
+340,S00340,Evelyn Patel,Health Informatics,2025,Undergraduate,In-State,0,FL,Active
+341,S00341,Chloe Jackson,Public Health,2024,Undergraduate,In-State,15,GA,Leave of Absence
+342,S00342,Levi Davis,Radiologic Sciences,2023,Undergraduate,In-State,40,FL,Active
+343,S00343,Olivia King,Healthcare Administration,2025,Undergraduate,In-State,0,AL,Active
+344,S00344,Levi Anderson,Public Health,2025,Certificate,In-State,30,VA,Leave of Absence
+345,S00345,Julian Anderson,Biomedical Sciences,2024,Undergraduate,In-State,25,FL,Active
+346,S00346,Hannah Clark,Biomedical Sciences,2023,Undergraduate,In-State,25,TX,Active
+347,S00347,Lucas Baker,Pre-Med,2026,Graduate,In-State,0,TX,Active
+348,S00348,Noah Jackson,Healthcare Administration,2026,Undergraduate,Out-of-State,0,GA,Active
+349,S00349,Isabella Walker,Nursing,2023,Undergraduate,In-State,10,TX,Active
+350,S00350,Grace Walker,Biomedical Sciences,2025,Undergraduate,Out-of-State,15,SC,Active
+351,S00351,Elijah Miller,Healthcare Administration,2023,Undergraduate,In-State,0,AL,Active
+352,S00352,Grace Hall,Nursing,2025,Undergraduate,Out-of-State,15,AL,Active
+353,S00353,James Smith,Pre-Med,2025,Certificate,In-State,10,VA,Active
+354,S00354,Sophia White,Public Health,2026,Graduate,In-State,15,TX,Active
+355,S00355,Liam Walker,Healthcare Administration,2026,Graduate,Out-of-State,10,GA,Active
+356,S00356,Mia Miller,Nursing,2023,Undergraduate,In-State,0,SC,Active
+357,S00357,Levi Smith,Radiologic Sciences,2025,Undergraduate,In-State,0,SC,Active
+358,S00358,Isabella Smith,Healthcare Administration,2025,Undergraduate,In-State,30,FL,Active
+359,S00359,Penelope Allen,Healthcare Administration,2026,Graduate,In-State,25,TN,Active
+360,S00360,Jack Thomas,Pre-Med,2025,Undergraduate,Out-of-State,0,FL,Leave of Absence
+361,S00361,Avery Roberts,Pre-Med,2025,Graduate,Out-of-State,40,AL,Active
+362,S00362,Sophia Martin,Health Informatics,2024,Undergraduate,In-State,40,SC,Active
+363,S00363,Liam Lee,Healthcare Administration,2025,Graduate,Out-of-State,30,VA,Leave of Absence
+364,S00364,Mateo Martinez,Health Informatics,2025,Undergraduate,In-State,20,SC,Active
+365,S00365,Ella Rodriguez,Healthcare Administration,2026,Graduate,In-State,50,SC,Active
+366,S00366,Mia White,Biomedical Sciences,2024,Undergraduate,Out-of-State,0,SC,Leave of Absence
+367,S00367,Daniel Clark,Healthcare Administration,2024,Undergraduate,In-State,50,VA,Active
+368,S00368,Abigail Nguyen,Biomedical Sciences,2025,Certificate,International,0,SC,Active
+369,S00369,Hannah Garcia,Pre-Med,2026,Undergraduate,In-State,0,SC,Leave of Absence
+370,S00370,Mason Nguyen,Radiologic Sciences,2026,Undergraduate,In-State,50,SC,Active
+371,S00371,Henry Taylor,Healthcare Administration,2025,Undergraduate,In-State,0,NC,Active
+372,S00372,Wyatt Lewis,Nursing,2025,Undergraduate,International,0,VA,Active
+373,S00373,Grace Miller,Pre-Med,2026,Graduate,In-State,0,VA,Active
+374,S00374,Abigail Taylor,Health Informatics,2025,Undergraduate,In-State,0,FL,Leave of Absence
+375,S00375,Michael Hill,Nursing,2024,Certificate,In-State,50,SC,Leave of Absence
+376,S00376,Mia Scott,Pre-Med,2025,Undergraduate,In-State,20,VA,Active
+377,S00377,Sophia Robinson,Health Informatics,2023,Undergraduate,In-State,10,GA,Active
+378,S00378,Harper Brown,Biomedical Sciences,2023,Undergraduate,Out-of-State,30,TN,Active
+379,S00379,Chloe Scott,Health Informatics,2025,Graduate,Out-of-State,0,AL,Leave of Absence
+380,S00380,Mason Moore,Health Informatics,2023,Undergraduate,In-State,0,VA,Active
+381,S00381,Mia Johnson,Public Health,2024,Undergraduate,In-State,0,GA,Active
+382,S00382,Sebastian Roberts,Health Informatics,2023,Undergraduate,In-State,50,TN,Active
+383,S00383,Emma Brown,Public Health,2024,Undergraduate,Out-of-State,40,TX,Active
+384,S00384,Scarlett White,Nursing,2023,Undergraduate,International,40,AL,Active
+385,S00385,Emma Lewis,Nursing,2026,Undergraduate,In-State,50,AL,Active
+386,S00386,Mia Nguyen,Pre-Med,2024,Undergraduate,In-State,30,GA,Active
+387,S00387,Michael Wright,Health Informatics,2025,Undergraduate,Out-of-State,25,NC,Active
+388,S00388,Daniel Lewis,Pre-Med,2026,Undergraduate,In-State,30,AL,Active
+389,S00389,Mason Martin,Radiologic Sciences,2023,Undergraduate,In-State,0,VA,Active
+390,S00390,Chloe Campbell,Pre-Med,2023,Undergraduate,Out-of-State,25,AL,Leave of Absence
+391,S00391,Evelyn Wright,Public Health,2023,Undergraduate,In-State,40,NC,Active
+392,S00392,Nora Taylor,Pre-Med,2024,Undergraduate,In-State,0,TN,Active
+393,S00393,Zoey Anderson,Healthcare Administration,2024,Certificate,In-State,20,GA,Active
+394,S00394,Daniel Nelson,Health Informatics,2025,Undergraduate,Out-of-State,30,FL,Leave of Absence
+395,S00395,Abigail Baker,Healthcare Administration,2026,Undergraduate,Out-of-State,0,NC,Leave of Absence
+396,S00396,Abigail Campbell,Healthcare Administration,2023,Undergraduate,International,0,TX,Active
+397,S00397,Jack Hall,Public Health,2026,Graduate,International,50,AL,Active
+398,S00398,Benjamin Martin,Health Informatics,2024,Certificate,International,25,FL,Active
+399,S00399,Henry White,Nursing,2026,Undergraduate,In-State,0,VA,Active
+400,S00400,Scarlett Martin,Healthcare Administration,2026,Undergraduate,In-State,0,TX,Active
+401,S00401,Grace Martin,Biomedical Sciences,2026,Certificate,In-State,10,AL,Active
+402,S00402,Chloe Scott,Healthcare Administration,2025,Undergraduate,Out-of-State,0,GA,Active
+403,S00403,Mateo Walker,Pre-Med,2023,Undergraduate,In-State,10,FL,Active
+404,S00404,Noah King,Nursing,2025,Undergraduate,In-State,20,AL,Active
+405,S00405,Michael Davis,Biomedical Sciences,2023,Undergraduate,In-State,30,AL,Active
+406,S00406,Leo Campbell,Radiologic Sciences,2025,Undergraduate,In-State,15,GA,Active
+407,S00407,Liam Lee,Nursing,2024,Certificate,In-State,10,SC,Active
+408,S00408,Ella Hall,Radiologic Sciences,2023,Undergraduate,Out-of-State,0,NC,Leave of Absence
+409,S00409,Ava Jackson,Public Health,2025,Undergraduate,Out-of-State,25,VA,Active
+410,S00410,Harper Thomas,Health Informatics,2025,Graduate,International,25,GA,Active
+411,S00411,Mateo Lewis,Radiologic Sciences,2025,Undergraduate,In-State,30,GA,Active
+412,S00412,Ella Martinez,Healthcare Administration,2025,Undergraduate,In-State,10,NC,Active
+413,S00413,Evelyn Rodriguez,Healthcare Administration,2026,Undergraduate,In-State,0,AL,Active
+414,S00414,Harper Hall,Health Informatics,2026,Undergraduate,International,50,SC,Active
+415,S00415,Mason Adams,Biomedical Sciences,2026,Undergraduate,Out-of-State,15,NC,Active
+416,S00416,Benjamin Thompson,Nursing,2026,Undergraduate,In-State,40,NC,Active
+417,S00417,Sophia Jackson,Public Health,2024,Undergraduate,Out-of-State,20,VA,Active
+418,S00418,Abigail Thompson,Health Informatics,2023,Graduate,In-State,50,GA,Active
+419,S00419,Elijah Green,Nursing,2026,Graduate,In-State,25,FL,Active
+420,S00420,Isabella Anderson,Public Health,2026,Certificate,Out-of-State,0,VA,Active
+421,S00421,Sophia Scott,Public Health,2024,Undergraduate,In-State,0,AL,Active
+422,S00422,Lucas Moore,Radiologic Sciences,2024,Graduate,In-State,0,TN,Active
+423,S00423,Michael Allen,Health Informatics,2026,Undergraduate,In-State,40,SC,Active
+424,S00424,Ava Martinez,Healthcare Administration,2024,Undergraduate,In-State,10,SC,Active
+425,S00425,Scarlett Miller,Nursing,2026,Graduate,International,15,NC,Active
+426,S00426,Noah Garcia,Public Health,2026,Graduate,International,40,VA,Active
+427,S00427,Isabella Robinson,Health Informatics,2025,Undergraduate,In-State,25,FL,Active
+428,S00428,Mason Miller,Pre-Med,2023,Certificate,Out-of-State,0,GA,Active
+429,S00429,Noah Lee,Biomedical Sciences,2025,Graduate,International,0,FL,Active
+430,S00430,Liam Rodriguez,Biomedical Sciences,2023,Undergraduate,Out-of-State,25,GA,Active
+431,S00431,Harper Wright,Biomedical Sciences,2024,Undergraduate,In-State,15,TN,Active
+432,S00432,Wyatt Martin,Radiologic Sciences,2024,Undergraduate,In-State,40,GA,Active
+433,S00433,James Brown,Health Informatics,2024,Certificate,In-State,15,SC,Active
+434,S00434,Chloe Thompson,Pre-Med,2023,Graduate,Out-of-State,10,AL,Active
+435,S00435,Evelyn Carter,Nursing,2023,Undergraduate,International,30,NC,Active
+436,S00436,Mateo Johnson,Biomedical Sciences,2023,Undergraduate,In-State,30,TX,Active
+437,S00437,Layla Rodriguez,Nursing,2024,Undergraduate,In-State,20,VA,Active
+438,S00438,James Brown,Healthcare Administration,2023,Undergraduate,In-State,0,VA,Active
+439,S00439,Nora Roberts,Public Health,2023,Undergraduate,In-State,0,GA,Active
+440,S00440,Michael King,Public Health,2026,Graduate,Out-of-State,0,GA,Active
+441,S00441,Emma Moore,Nursing,2026,Certificate,Out-of-State,50,AL,Active
+442,S00442,Avery Lee,Healthcare Administration,2025,Certificate,In-State,0,AL,Active
+443,S00443,James Hall,Health Informatics,2023,Undergraduate,In-State,20,FL,Active
+444,S00444,Penelope Hill,Pre-Med,2025,Graduate,Out-of-State,50,GA,Active
+445,S00445,Evelyn Wright,Public Health,2026,Undergraduate,Out-of-State,50,FL,Active
+446,S00446,Amelia Green,Healthcare Administration,2026,Graduate,In-State,0,AL,Active
+447,S00447,Evelyn Robinson,Public Health,2023,Graduate,In-State,40,TN,Active
+448,S00448,Evelyn Smith,Health Informatics,2026,Certificate,Out-of-State,0,AL,Active
+449,S00449,Grace Davis,Health Informatics,2023,Undergraduate,Out-of-State,25,FL,Active
+450,S00450,Lillian Carter,Healthcare Administration,2023,Certificate,International,15,SC,Active
+451,S00451,Henry Lewis,Healthcare Administration,2023,Undergraduate,Out-of-State,20,AL,Active
+452,S00452,Nora Davis,Nursing,2024,Undergraduate,In-State,20,TX,Active
+453,S00453,Wyatt Lewis,Biomedical Sciences,2023,Undergraduate,In-State,30,NC,Active
+454,S00454,Mia Harris,Radiologic Sciences,2024,Undergraduate,In-State,25,SC,Active
+455,S00455,Elijah Robinson,Nursing,2026,Undergraduate,International,0,AL,Active
+456,S00456,Abigail Green,Pre-Med,2026,Undergraduate,Out-of-State,0,TN,Leave of Absence
+457,S00457,Leo Green,Healthcare Administration,2024,Certificate,In-State,0,GA,Active
+458,S00458,Sebastian Mitchell,Public Health,2026,Undergraduate,International,10,TX,Active
+459,S00459,Henry Thompson,Health Informatics,2024,Undergraduate,Out-of-State,50,TX,Active
+460,S00460,Grace Nelson,Biomedical Sciences,2024,Undergraduate,In-State,50,TX,Active
+461,S00461,Isabella Taylor,Radiologic Sciences,2025,Undergraduate,In-State,40,AL,Leave of Absence
+462,S00462,Penelope Hall,Biomedical Sciences,2025,Undergraduate,In-State,40,GA,Active
+463,S00463,Daniel Wilson,Nursing,2023,Undergraduate,In-State,0,TX,Active
+464,S00464,Charlotte Rodriguez,Biomedical Sciences,2025,Undergraduate,Out-of-State,0,VA,Active
+465,S00465,Mia Roberts,Healthcare Administration,2024,Graduate,Out-of-State,10,TX,Active
+466,S00466,Daniel Lee,Health Informatics,2025,Graduate,In-State,0,TX,Active
+467,S00467,Avery Young,Healthcare Administration,2024,Undergraduate,International,40,SC,Active
+468,S00468,Aria Young,Pre-Med,2023,Undergraduate,In-State,40,GA,Active
+469,S00469,Noah Allen,Public Health,2025,Undergraduate,In-State,50,TX,Active
+470,S00470,Henry King,Biomedical Sciences,2024,Undergraduate,In-State,20,FL,Leave of Absence
+471,S00471,Scarlett Scott,Healthcare Administration,2025,Undergraduate,In-State,40,SC,Active
+472,S00472,Wyatt Johnson,Healthcare Administration,2024,Undergraduate,Out-of-State,40,TN,Active
+473,S00473,Jack Jackson,Pre-Med,2025,Undergraduate,In-State,15,SC,Leave of Absence
+474,S00474,Wyatt Wright,Radiologic Sciences,2023,Undergraduate,In-State,30,SC,Leave of Absence
+475,S00475,Avery White,Nursing,2025,Undergraduate,In-State,25,TX,Active
+476,S00476,Aria Nguyen,Radiologic Sciences,2025,Graduate,Out-of-State,30,AL,Active
+477,S00477,Aria Anderson,Public Health,2023,Undergraduate,In-State,40,FL,Active
+478,S00478,Lucas Thomas,Healthcare Administration,2026,Undergraduate,In-State,40,TN,Active
+479,S00479,Charlotte Nguyen,Health Informatics,2025,Undergraduate,In-State,0,FL,Active
+480,S00480,Harper Nelson,Nursing,2024,Undergraduate,Out-of-State,25,AL,Active
+481,S00481,Zoey Martinez,Nursing,2026,Undergraduate,Out-of-State,0,GA,Leave of Absence
+482,S00482,Noah Johnson,Public Health,2023,Undergraduate,In-State,50,GA,Active
+483,S00483,Nora Lee,Health Informatics,2023,Graduate,In-State,40,SC,Active
+484,S00484,Michael Adams,Public Health,2024,Undergraduate,In-State,0,NC,Active
+485,S00485,Noah Carter,Radiologic Sciences,2026,Graduate,Out-of-State,0,TX,Active
+486,S00486,Jack Thomas,Health Informatics,2024,Undergraduate,In-State,10,TX,Active
+487,S00487,James Taylor,Biomedical Sciences,2023,Graduate,Out-of-State,40,GA,Active
+488,S00488,Olivia Harris,Nursing,2024,Certificate,Out-of-State,20,VA,Active
+489,S00489,Evelyn Brown,Public Health,2023,Undergraduate,In-State,30,AL,Active
+490,S00490,Avery Garcia,Biomedical Sciences,2024,Certificate,International,20,VA,Active
+491,S00491,Amelia Carter,Public Health,2024,Undergraduate,Out-of-State,15,VA,Active
+492,S00492,Henry Wright,Health Informatics,2026,Undergraduate,In-State,30,GA,Active
+493,S00493,Sebastian Smith,Healthcare Administration,2025,Undergraduate,Out-of-State,10,TX,Active
+494,S00494,Olivia Nguyen,Healthcare Administration,2023,Certificate,International,25,SC,Active
+495,S00495,Lillian Harris,Radiologic Sciences,2026,Undergraduate,In-State,25,SC,Leave of Absence
+496,S00496,Aria Miller,Health Informatics,2023,Undergraduate,In-State,40,FL,Active
+497,S00497,Avery Moore,Healthcare Administration,2024,Graduate,In-State,0,NC,Active
+498,S00498,Jack Patel,Pre-Med,2026,Undergraduate,In-State,15,VA,Active
+499,S00499,Noah Thomas,Radiologic Sciences,2025,Undergraduate,Out-of-State,30,FL,Active
+500,S00500,Grace Brown,Biomedical Sciences,2025,Undergraduate,International,40,NC,Active

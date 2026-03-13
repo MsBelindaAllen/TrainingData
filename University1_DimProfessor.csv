@@ -1,0 +1,25 @@
+ProfessorKey,ProfessorID,ProfessorName,Department,Specialty,HireDate,EmploymentStatus,OfficeLocation,AnnualSalary
+1,P001,Dr. James Nguyen,School of Medicine,Health Informatics,2016-04-08,Full-Time,Med Building C-152,180696.0
+2,P002,Dr. Hannah Smith,School of Medicine,Surgery,2018-01-01,Full-Time,Med Building A-219,158237.0
+3,P003,Dr. Sebastian Nguyen,School of Medicine,Radiology,2015-12-21,Adjunct,Med Building C-314,120893.0
+4,P004,Dr. Nora Campbell,School of Medicine,Public Health,2024-01-25,Full-Time,Med Building C-316,136597.0
+5,P005,Dr. Ella Wilson,School of Medicine,Nursing,2024-06-04,Full-Time,Med Building B-149,139052.0
+6,P006,Dr. Jack Mitchell,School of Medicine,Public Health,2024-01-24,Full-Time,Med Building C-163,141615.0
+7,P007,Dr. Sophia Nelson,School of Medicine,Public Health,2022-10-28,Full-Time,Med Building C-198,184349.0
+8,P008,Dr. Olivia Patel,School of Medicine,Cardiology,2015-05-03,Full-Time,Med Building A-294,128434.0
+9,P009,Dr. Layla Lewis,School of Medicine,Pharmacology,2017-06-07,Adjunct,Med Building B-459,181593.0
+10,P010,Dr. Olivia Mitchell,School of Medicine,Cardiology,2014-09-24,Full-Time,Med Building A-336,141735.0
+11,P011,Dr. Ella Nelson,School of Medicine,Nursing,2022-06-27,Full-Time,Med Building A-116,197518.0
+12,P012,Dr. Grace Walker,School of Medicine,Public Health,2013-04-19,Adjunct,Med Building B-208,177909.0
+13,P013,Dr. Julian Walker,School of Medicine,Cardiology,2019-03-09,Full-Time,Med Building A-481,165579.0
+14,P014,Dr. Hannah Harris,School of Medicine,Health Informatics,2021-07-19,Full-Time,Med Building B-212,110131.0
+15,P015,Dr. Mateo Scott,School of Medicine,Physiology,2024-01-28,Full-Time,Med Building A-421,112969.0
+16,P016,Dr. Zoey Mitchell,School of Medicine,Physiology,2018-07-20,Full-Time,Med Building C-228,164512.0
+17,P017,Dr. Ava Davis,School of Medicine,Cardiology,2020-05-25,Adjunct,Med Building B-157,130469.0
+18,P018,Dr. Zoey Moore,School of Medicine,Microbiology,2012-12-24,Full-Time,Med Building C-490,115416.0
+19,P019,Dr. Mateo Brown,School of Medicine,Cardiology,2016-11-17,Full-Time,Med Building A-178,141009.0
+20,P020,Dr. Amelia Adams,School of Medicine,Radiology,2012-10-11,Full-Time,Med Building A-157,139576.0
+21,P021,Dr. Scarlett White,School of Medicine,Anatomy,2015-10-03,Full-Time,Med Building C-348,198957.0
+22,P022,Dr. Olivia Adams,School of Medicine,Pharmacology,2014-11-16,Full-Time,Med Building A-235,161163.0
+23,P023,Dr. Sebastian Allen,School of Medicine,Nursing,2020-12-23,Full-Time,Med Building C-259,144296.0
+24,P024,Dr. Levi Young,School of Medicine,Radiology,2019-02-08,Full-Time,Med Building A-273,94757.0
