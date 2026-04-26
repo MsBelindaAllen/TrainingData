@@ -1,0 +1,13 @@
+ProviderID,FirstName,LastName,Specialty,DepartmentID,NPI,YearsExperience,FullTime,HospitalAffiliation
+PR001,Sarah,Okonkwo,Internal Medicine,DEPT01,1234567890,18,Yes,Lakewood Regional Medical Center
+PR002,James,Whitfield,Cardiology,DEPT02,2345678901,24,Yes,Lakewood Regional Medical Center
+PR003,Priya,Krishnamurthy,Family Medicine,DEPT01,3456789012,11,Yes,Lakewood Regional Medical Center
+PR004,Carlos,Vega,Orthopedics,DEPT05,4567890123,15,Yes,Lakewood Regional Medical Center
+PR005,Angela,Morrison,Endocrinology,DEPT03,5678901234,20,Yes,Lakewood Regional Medical Center
+PR006,David,Park,Pulmonology,DEPT04,6789012345,9,Yes,Lakewood Regional Medical Center
+PR007,Rachel,Zimmerman,Neurology,DEPT06,7890123456,13,Yes,Lakewood Regional Medical Center
+PR008,Thomas,Adeyemi,Oncology,DEPT07,8901234567,22,Yes,Lakewood Regional Medical Center
+PR009,Lisa,Huang,Psychiatry,DEPT08,9012345678,7,Yes,Lakewood Regional Medical Center
+PR010,Michael,Castillo,Emergency Medicine,DEPT09,0123456789,16,Yes,Lakewood Regional Medical Center
+PR011,Jennifer,Osei,Obstetrics & Gynecology,DEPT10,1230456789,12,Yes,Lakewood Regional Medical Center
+PR012,Robert,Nguyen,Gastroenterology,DEPT11,2341567890,19,Yes,Lakewood Regional Medical Center

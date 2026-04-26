@@ -1,0 +1,8 @@
+InsurancePlanID,PlanName,PlanType,PrimaryPayer,ReimbursementRate,DeductibleAmt,OutOfPocketMax,CoverageStart,NetworkType
+INS001,BlueCross Premier,PPO,BlueCross BlueShield,0.82,1500,6000,2020-01-01,In-Network
+INS002,Aetna Select Plus,HMO,Aetna,0.78,800,4000,2019-06-01,In-Network
+INS003,Medicare Part A/B,Government,CMS,0.80,1600,N/A,2003-01-01,National
+INS004,Medicaid Standard,Government,State Medicaid,0.65,0,N/A,2010-01-01,In-Network
+INS005,United Health Gold,PPO,UnitedHealthcare,0.85,2000,7500,2021-01-01,In-Network
+INS006,Cigna Connect,EPO,Cigna,0.76,1200,5000,2022-01-01,In-Network
+INS007,Self-Pay,Self-Pay,Patient,0.45,N/A,N/A,N/A,N/A

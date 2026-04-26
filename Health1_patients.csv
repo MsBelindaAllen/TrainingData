@@ -1,0 +1,51 @@
+PatientID,FirstName,LastName,DateOfBirth,Gender,Race,Ethnicity,MaritalStatus,City,State,ZipCode,InsurancePlanID,PrimaryProviderID
+P001,James,Harrison,1955-03-14,Male,White,Non-Hispanic,Married,Springfield,IL,62701,INS004,PR012
+P002,Maria,Gonzalez,1982-07-22,Female,Hispanic,Hispanic,Single,Riverside,CA,92501,INS001,PR003
+P003,Robert,Chen,1970-11-08,Male,Asian,Non-Hispanic,Married,Lakewood,CO,80226,INS002,PR007
+P004,Patricia,Williams,1948-05-30,Female,Black,Non-Hispanic,Widowed,Atlanta,GA,30301,INS003,PR001
+P005,Michael,Thompson,1990-02-17,Male,White,Non-Hispanic,Single,Portland,OR,97201,INS001,PR009
+P006,Linda,Martinez,1963-09-05,Female,Hispanic,Hispanic,Married,San Antonio,TX,78201,INS002,PR005
+P007,David,Johnson,1978-12-19,Male,Black,Non-Hispanic,Divorced,Chicago,IL,60601,INS004,PR011
+P008,Barbara,Davis,1935-04-11,Female,White,Non-Hispanic,Widowed,Phoenix,AZ,85001,INS003,PR002
+P009,William,Rodriguez,1985-08-03,Male,Hispanic,Hispanic,Married,Miami,FL,33101,INS001,PR006
+P010,Susan,Wilson,1957-01-25,Female,White,Non-Hispanic,Married,Seattle,WA,98101,INS002,PR010
+P011,Richard,Anderson,1944-06-16,Male,White,Non-Hispanic,Married,Denver,CO,80201,INS003,PR004
+P012,Karen,Taylor,1972-10-09,Female,White,Non-Hispanic,Single,Boston,MA,02101,INS001,PR008
+P013,Charles,Thomas,1988-03-28,Male,Black,Non-Hispanic,Single,Detroit,MI,48201,INS004,PR012
+P014,Nancy,Jackson,1960-07-14,Female,White,Non-Hispanic,Married,Charlotte,NC,28201,INS002,PR003
+P015,Joseph,White,1951-11-22,Male,White,Non-Hispanic,Married,Columbus,OH,43201,INS003,PR007
+P016,Betty,Harris,1966-02-08,Female,Black,Non-Hispanic,Divorced,Indianapolis,IN,46201,INS001,PR001
+P017,Thomas,Martin,1993-05-31,Male,White,Non-Hispanic,Single,Nashville,TN,37201,INS002,PR009
+P018,Dorothy,Garcia,1940-09-17,Female,Hispanic,Hispanic,Married,El Paso,TX,79901,INS003,PR005
+P019,Mark,Martinez,1979-01-04,Male,Hispanic,Hispanic,Married,Las Vegas,NV,89101,INS004,PR011
+P020,Sandra,Robinson,1968-04-20,Female,Black,Non-Hispanic,Married,Memphis,TN,38101,INS001,PR002
+P021,Paul,Clark,1983-08-13,Male,White,Non-Hispanic,Single,Louisville,KY,40201,INS002,PR006
+P022,Ashley,Rodriguez,1995-12-07,Female,Hispanic,Hispanic,Single,Baltimore,MD,21201,INS003,PR010
+P023,Kevin,Lewis,1959-03-24,Male,White,Non-Hispanic,Married,Milwaukee,WI,53201,INS004,PR004
+P024,Donna,Lee,1947-07-10,Female,Asian,Non-Hispanic,Married,Albuquerque,NM,87101,INS001,PR008
+P025,Steven,Walker,1986-11-27,Male,White,Non-Hispanic,Single,Tucson,AZ,85701,INS002,PR012
+P026,Michelle,Hall,1962-02-15,Female,White,Non-Hispanic,Married,Fresno,CA,93701,INS003,PR003
+P027,Edward,Allen,1973-06-01,Male,Black,Non-Hispanic,Married,Sacramento,CA,95801,INS004,PR007
+P028,Carol,Young,1953-10-18,Female,White,Non-Hispanic,Divorced,Long Beach,CA,90801,INS001,PR001
+P029,Jason,Hernandez,1991-01-06,Male,Hispanic,Hispanic,Single,Kansas City,MO,64101,INS002,PR009
+P030,Amanda,King,1977-05-23,Female,White,Non-Hispanic,Married,Mesa,AZ,85201,INS003,PR005
+P031,Jeffrey,Wright,1945-09-09,Male,White,Non-Hispanic,Married,Virginia Beach,VA,23451,INS004,PR011
+P032,Rebecca,Lopez,1967-12-26,Female,Hispanic,Hispanic,Married,Atlanta,GA,30302,INS001,PR002
+P033,Ryan,Hill,1989-04-12,Male,White,Non-Hispanic,Single,Colorado Springs,CO,80901,INS002,PR006
+P034,Sharon,Scott,1956-08-29,Female,Black,Non-Hispanic,Married,Raleigh,NC,27601,INS003,PR010
+P035,Jacob,Green,1981-01-15,Male,White,Non-Hispanic,Single,Omaha,NE,68101,INS004,PR004
+P036,Laura,Adams,1943-05-02,Female,White,Non-Hispanic,Widowed,Cleveland,OH,44101,INS001,PR008
+P037,Gary,Baker,1975-08-19,Male,Black,Non-Hispanic,Divorced,Tulsa,OK,74101,INS002,PR012
+P038,Amy,Gonzalez,1998-12-05,Female,Hispanic,Hispanic,Single,Minneapolis,MN,55401,INS003,PR003
+P039,Nicholas,Nelson,1964-03-23,Male,White,Non-Hispanic,Married,Wichita,KS,67201,INS004,PR007
+P040,Melissa,Carter,1987-07-09,Female,White,Non-Hispanic,Single,Arlington,TX,76001,INS001,PR001
+P041,Eric,Mitchell,1952-11-26,Male,White,Non-Hispanic,Married,New Orleans,LA,70101,INS002,PR009
+P042,Christine,Perez,1969-02-13,Female,Hispanic,Hispanic,Married,Tampa,FL,33601,INS003,PR005
+P043,Stephen,Roberts,1984-06-30,Male,White,Non-Hispanic,Single,Aurora,CO,80010,INS004,PR011
+P044,Debra,Turner,1941-10-16,Female,White,Non-Hispanic,Widowed,Bakersfield,CA,93301,INS001,PR002
+P045,Timothy,Phillips,1976-01-03,Male,Black,Non-Hispanic,Married,Honolulu,HI,96801,INS002,PR006
+P046,Cynthia,Campbell,1960-04-20,Female,White,Non-Hispanic,Divorced,Anaheim,CA,92801,INS003,PR010
+P047,Raymond,Parker,1949-08-07,Male,White,Non-Hispanic,Married,Santa Ana,CA,92701,INS004,PR004
+P048,Stephanie,Evans,1994-11-24,Female,Black,Non-Hispanic,Single,Corpus Christi,TX,78401,INS001,PR008
+P049,Scott,Edwards,1971-03-11,Male,White,Non-Hispanic,Married,Riverside,CA,92502,INS002,PR012
+P050,Katherine,Collins,1958-07-28,Female,White,Non-Hispanic,Married,Lexington,KY,40501,INS003,PR003

@@ -1,0 +1,46 @@
+DiagnosisCode,DiagnosisDescription,Category,ClinicalGroup,ChronicCondition,PreventableCondition,AvgLengthOfStay,AvgCost,CMS_DRG
+I25.10,Atherosclerotic heart disease of native coronary artery without angina pectoris,Circulatory,Cardiovascular,Yes,No,4.2,22000,CAD Management
+I21.09,ST elevation myocardial infarction involving other coronary artery,Circulatory,Cardiovascular,No,No,5.8,35000,AMI
+I50.9,Heart failure unspecified,Circulatory,Cardiovascular,Yes,No,4.5,19000,Heart Failure
+I48.19,Other persistent atrial fibrillation,Circulatory,Cardiovascular,Yes,No,3.8,18000,Arrhythmia
+I63.50,Cerebral infarction due to unspecified occlusion of unspecified cerebral artery,Circulatory,Neurological,No,No,6.1,28000,Stroke
+I10,Essential hypertension,Circulatory,Cardiovascular,Yes,No,0,350,Hypertension
+E11.9,Type 2 diabetes mellitus without complications,Endocrine,Metabolic,Yes,No,0,420,Diabetes Management
+E11.65,Type 2 diabetes mellitus with hyperglycemia,Endocrine,Metabolic,Yes,No,0,490,Diabetes Management
+E10.9,Type 1 diabetes mellitus without complications,Endocrine,Metabolic,Yes,No,0,400,Diabetes Management
+E78.5,Hyperlipidemia unspecified,Endocrine,Metabolic,Yes,No,0,340,Lipid Disorder
+N18.3,Chronic kidney disease stage 3,Genitourinary,Renal,Yes,No,4.1,16000,CKD Management
+N18.4,Chronic kidney disease stage 4,Genitourinary,Renal,Yes,No,4.8,18500,CKD Management
+J18.9,Pneumonia unspecified organism,Respiratory,Pulmonary,No,No,4.6,15000,Pneumonia
+J44.1,Chronic obstructive pulmonary disease with acute exacerbation,Respiratory,Pulmonary,Yes,No,4.0,18500,COPD
+J45.51,Severe persistent asthma with acute exacerbation,Respiratory,Pulmonary,Yes,No,0,4200,Asthma
+J45.30,Mild intermittent asthma with acute exacerbation,Respiratory,Pulmonary,Yes,No,0,3800,Asthma
+J96.01,Acute respiratory failure with hypoxia,Respiratory,Pulmonary,No,No,5.2,22000,Respiratory Failure
+G20,Parkinson disease,Neurological,Neurological,Yes,No,0,750,Neurological
+G35,Multiple sclerosis,Neurological,Neurological,Yes,No,0,820,Neurological
+G43.909,Migraine unspecified not intractable without status migrainosus,Neurological,Neurological,Yes,No,0,580,Neurological
+G43.709,Chronic migraine without aura not intractable without status migrainosus,Neurological,Neurological,Yes,No,0,610,Neurological
+M16.11,Unilateral primary osteoarthritis right hip,Musculoskeletal,Orthopedic,No,No,3.5,32000,Hip Replacement
+M17.11,Primary osteoarthritis right knee,Musculoskeletal,Orthopedic,No,No,4.0,35000,Knee Replacement
+M54.5,Low back pain,Musculoskeletal,Orthopedic,No,No,0,380,Musculoskeletal
+C50.911,Malignant neoplasm of unspecified site of right female breast,Neoplasm,Oncology,No,No,0,1200,Breast Cancer
+C34.10,Malignant neoplasm of upper lobe unspecified bronchus or lung,Neoplasm,Oncology,No,No,0,1400,Lung Cancer
+C61,Malignant neoplasm of prostate,Neoplasm,Oncology,No,No,0,1100,Prostate Cancer
+F32.1,Major depressive disorder single episode moderate,Mental Health,Behavioral,Yes,No,0,380,Depression
+F32.9,Major depressive disorder single episode unspecified,Mental Health,Behavioral,Yes,No,0,360,Depression
+F33.1,Major depressive disorder recurrent moderate,Mental Health,Behavioral,Yes,No,0,420,Depression
+F41.1,Generalized anxiety disorder,Mental Health,Behavioral,Yes,No,0,360,Anxiety
+K21.0,Gastro-esophageal reflux disease with esophagitis,Digestive,Gastrointestinal,Yes,No,0,700,GI Disorder
+K27.9,Peptic ulcer unspecified as acute or chronic without hemorrhage or perforation,Digestive,Gastrointestinal,No,No,4.2,14000,GI Disorder
+K57.30,Diverticulosis of large intestine without perforation or abscess without bleeding,Digestive,Gastrointestinal,No,No,0,620,GI Disorder
+K92.1,Melena,Digestive,Gastrointestinal,No,No,0,560,GI Disorder
+S72.001A,Fracture of unspecified part of neck of right femur initial encounter,Injury,Trauma,No,No,0,4800,Fracture
+S82.001A,Fracture of unspecified part of right patella initial encounter,Injury,Trauma,No,No,0,5800,Fracture
+S06.0X1A,Concussion with loss of consciousness of 30 minutes or less initial encounter,Injury,Trauma,No,No,0,7200,Head Injury
+N92.0,Excessive and frequent menstruation with regular cycle,Genitourinary,Gynecological,No,No,0,440,GYN Condition
+N95.1,Menopausal and female climacteric states,Genitourinary,Gynecological,No,No,0,400,GYN Condition
+O26.00,Excessive weight gain in pregnancy unspecified trimester,Pregnancy,Obstetrics,No,No,0,520,OB Condition
+Z30.09,Encounter for other general counseling and advice on contraception,Preventive,Well-Care,No,No,0,330,Preventive Care
+Z00.00,Encounter for general adult medical examination without abnormal findings,Preventive,Well-Care,No,No,0,220,Preventive Care
+R07.9,Chest pain unspecified,Symptoms,Unspecified,No,No,0,3600,Symptom NOS
+T39.1X1A,Poisoning by 4-Aminophenol derivatives intentional self-harm initial encounter,Injury,Toxicology,No,No,0,9200,Overdose/Poisoning
