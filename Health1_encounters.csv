@@ -33,7 +33,9 @@ E0031,P031,PR002,DEPT02,3/25/2025,Inpatient,3/25/2025,4/1/2025,7,I48.19,Emergenc
 E0032,P032,PR003,DEPT01,3/28/2025,Outpatient,,,0,E11.9,Referral,Home,370,289,56,25,91,No,No
 E0033,P033,PR007,DEPT06,4/1/2025,Outpatient,,,0,G35,Referral,Home,720,562,108,50,88,No,No
 E0034,P034,PR011,DEPT10,4/4/2025,Outpatient,,,0,N92.0,Self-Referral,Home,380,297,57,26,93,No,No
+null,null,null,null,null,null,,,0,null.0,Self-Referral,Home,null,null,null,null,null,No,No
 E0035,P035,PR004,DEPT05,4/7/2025,Inpatient,4/7/2025,4/11/2025,4,M17.11,Elective,Home,31200,24960,2496,3744,89,No,No
+,,,,,,,,0,null.0,Self-Referral,Home,null,null,null,null,null,No,No
 E0036,P036,PR001,DEPT01,4/10/2025,Outpatient,,,0,I10,Self-Referral,Home,290,226,44,20,88,No,No
 E0037,P037,PR010,DEPT09,4/13/2025,Emergency,,,0,S06.0X1A,Emergency,Home,6800,5304,748,748,83,No,Yes
 E0038,P038,PR006,DEPT04,4/16/2025,Outpatient,,,0,J45.30,Referral,Home,470,367,71,32,90,No,No
