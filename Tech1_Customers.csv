@@ -1,0 +1,16 @@
+CustomerID,CustomerName,Industry,Country,CustomerType,AnnualBudget
+CUST001,TechCore Solutions,Data Center,USA,Enterprise,1500000
+CUST002,CloudStream Industries,Cloud Services,USA,Enterprise,2200000
+CUST003,NetVision Systems,Networking,Canada,Enterprise,950000
+CUST004,SigmaWave Communications,Telecom,UK,Enterprise,1800000
+CUST005,PixelForge Ltd,Consumer Electronics,Japan,Mid-Market,650000
+CUST006,QuantumDrive Storage,Storage Systems,USA,Enterprise,2800000
+CUST007,VectorTech Manufacturing,Manufacturing,Germany,Mid-Market,780000
+CUST008,SpectralLink Asia,Telecom,Singapore,Mid-Market,560000
+CUST009,FuturePulse Electronics,Consumer Electronics,South Korea,Mid-Market,720000
+CUST010,InfraFlow Solutions,Data Center,USA,Enterprise,3100000
+CUST011,CyberMesh Networks,Networking,France,Mid-Market,450000
+CUST012,SolidState Systems,Industrial IoT,India,Small Business,320000
+CUST013,NexGen Devices,Consumer Electronics,Taiwan,Mid-Market,890000
+CUST014,PulseLink Global,Telecommunications,Brazil,Mid-Market,610000
+CUST015,IronClad Tech,Industrial IoT,USA,Enterprise,1200000

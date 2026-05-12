@@ -1,0 +1,13 @@
+ProductID,ProductName,StandardLeadTimeDays,ExpeditedLeadTimeDays,ExpediteCost
+PROD001,Titan XP3000,90,45,15000
+PROD002,Titan XP5000,105,60,22000
+PROD003,AlexII Network Switch,75,35,8500
+PROD004,Fastcore SSD Controller,68,30,6200
+PROD005,DuetoQ Crypto Engine,85,40,12000
+PROD006,LinkMax 400G PHY,72,32,5400
+PROD007,SonicLift Transceiver,95,50,18000
+PROD008,PowerVault IoT Gateway,55,25,2800
+PROD009,Sentinel Security Chip,60,28,1200
+PROD010,FlexiCore FPGA,120,70,28000
+PROD011,Prism Display Driver,52,22,800
+PROD012,SuperLink SerDes,70,33,4500

@@ -1,0 +1,67 @@
+ProductID,ProductName,MaterialID,MaterialName,QuantityPerUnit,UnitOfMeasure,MaterialCostPerUnit
+PROD001,Titan XP3000,MAT001,Silicon Wafers 300mm,1.28,units,$576.00
+PROD001,Titan XP3000,MAT005,Flux & Solder,0.96,grams,$11.52
+PROD001,Titan XP3000,MAT004,Photoresist Material,3.83,grams,$122.56
+PROD001,Titan XP3000,MAT002,Gold Wire Bonding,31.80,meters,$254.40
+PROD002,Titan XP5000,MAT001,Silicon Wafers 300mm,2.12,units,$954.00
+PROD002,Titan XP5000,MAT010,Tungsten Metallization,14.60,grams,"$1,241.00"
+PROD002,Titan XP5000,MAT002,Gold Wire Bonding,38.10,meters,$304.80
+PROD002,Titan XP5000,MAT008,Ceramic Substrate,0.90,units,$112.50
+PROD002,Titan XP5000,MAT007,Epoxy Molding Compound,0.95,grams,$26.60
+PROD002,Titan XP5000,MAT005,Flux & Solder,1.75,grams,$21.00
+PROD002,Titan XP5000,MAT009,Tantalum Capacitors,448.00,pieces,"$1,120.00"
+PROD003,AlexII Network Switch,MAT007,Epoxy Molding Compound,1.92,grams,$53.76
+PROD003,AlexII Network Switch,MAT006,Aluminum Wire 1mm,23.50,meters,$117.50
+PROD003,AlexII Network Switch,MAT005,Flux & Solder,0.92,grams,$11.04
+PROD003,AlexII Network Switch,MAT002,Gold Wire Bonding,13.90,meters,$111.20
+PROD003,AlexII Network Switch,MAT010,Tungsten Metallization,17.10,grams,"$1,453.50"
+PROD004,Fastcore SSD Controller,MAT001,Silicon Wafers 300mm,1.59,units,$715.50
+PROD004,Fastcore SSD Controller,MAT008,Ceramic Substrate,1.29,units,$161.25
+PROD004,Fastcore SSD Controller,MAT002,Gold Wire Bonding,45.40,meters,$363.20
+PROD004,Fastcore SSD Controller,MAT004,Photoresist Material,2.13,grams,$68.16
+PROD004,Fastcore SSD Controller,MAT010,Tungsten Metallization,4.65,grams,$395.25
+PROD004,Fastcore SSD Controller,MAT005,Flux & Solder,0.81,grams,$9.72
+PROD005,DuetoQ Crypto Engine,MAT005,Flux & Solder,2.21,grams,$26.52
+PROD005,DuetoQ Crypto Engine,MAT002,Gold Wire Bonding,28.10,meters,$224.80
+PROD005,DuetoQ Crypto Engine,MAT004,Photoresist Material,4.25,grams,$136.00
+PROD005,DuetoQ Crypto Engine,MAT007,Epoxy Molding Compound,0.41,grams,$11.48
+PROD005,DuetoQ Crypto Engine,MAT001,Silicon Wafers 300mm,1.71,units,$769.50
+PROD006,LinkMax 400G PHY,MAT002,Gold Wire Bonding,20.80,meters,$166.40
+PROD006,LinkMax 400G PHY,MAT003,Copper PCB Substrate,18.58,units,"$1,207.70"
+PROD006,LinkMax 400G PHY,MAT004,Photoresist Material,3.60,grams,$115.20
+PROD006,LinkMax 400G PHY,MAT010,Tungsten Metallization,5.17,grams,$439.45
+PROD006,LinkMax 400G PHY,MAT008,Ceramic Substrate,0.72,units,$90.00
+PROD006,LinkMax 400G PHY,MAT006,Aluminum Wire 1mm,40.70,meters,$203.50
+PROD007,SonicLift Transceiver,MAT004,Photoresist Material,1.70,grams,$54.40
+PROD007,SonicLift Transceiver,MAT001,Silicon Wafers 300mm,1.42,units,$639.00
+PROD007,SonicLift Transceiver,MAT006,Aluminum Wire 1mm,47.70,meters,$238.50
+PROD007,SonicLift Transceiver,MAT010,Tungsten Metallization,17.65,grams,"$1,500.25"
+PROD008,PowerVault IoT Gateway,MAT004,Photoresist Material,1.69,grams,$54.08
+PROD008,PowerVault IoT Gateway,MAT008,Ceramic Substrate,0.57,units,$71.25
+PROD008,PowerVault IoT Gateway,MAT007,Epoxy Molding Compound,1.17,grams,$32.76
+PROD008,PowerVault IoT Gateway,MAT006,Aluminum Wire 1mm,20.50,meters,$102.50
+PROD008,PowerVault IoT Gateway,MAT010,Tungsten Metallization,12.11,grams,"$1,029.35"
+PROD008,PowerVault IoT Gateway,MAT002,Gold Wire Bonding,45.90,meters,$367.20
+PROD009,Sentinel Security Chip,MAT006,Aluminum Wire 1mm,44.40,meters,$222.00
+PROD009,Sentinel Security Chip,MAT004,Photoresist Material,1.19,grams,$38.08
+PROD009,Sentinel Security Chip,MAT003,Copper PCB Substrate,4.04,units,$262.60
+PROD009,Sentinel Security Chip,MAT005,Flux & Solder,3.56,grams,$42.72
+PROD009,Sentinel Security Chip,MAT009,Tantalum Capacitors,339.00,pieces,$847.50
+PROD009,Sentinel Security Chip,MAT001,Silicon Wafers 300mm,1.77,units,$796.50
+PROD009,Sentinel Security Chip,MAT007,Epoxy Molding Compound,1.23,grams,$34.44
+PROD010,FlexiCore FPGA,MAT009,Tantalum Capacitors,407.00,pieces,"$1,017.50"
+PROD010,FlexiCore FPGA,MAT005,Flux & Solder,2.03,grams,$24.36
+PROD010,FlexiCore FPGA,MAT001,Silicon Wafers 300mm,1.59,units,$715.50
+PROD010,FlexiCore FPGA,MAT006,Aluminum Wire 1mm,16.30,meters,$81.50
+PROD010,FlexiCore FPGA,MAT007,Epoxy Molding Compound,0.11,grams,$3.08
+PROD010,FlexiCore FPGA,MAT008,Ceramic Substrate,1.47,units,$183.75
+PROD010,FlexiCore FPGA,MAT003,Copper PCB Substrate,14.67,units,$953.55
+PROD011,Prism Display Driver,MAT009,Tantalum Capacitors,303.00,pieces,$757.50
+PROD011,Prism Display Driver,MAT002,Gold Wire Bonding,18.00,meters,$144.00
+PROD011,Prism Display Driver,MAT005,Flux & Solder,2.18,grams,$26.16
+PROD011,Prism Display Driver,MAT007,Epoxy Molding Compound,0.41,grams,$11.48
+PROD011,Prism Display Driver,MAT006,Aluminum Wire 1mm,48.10,meters,$240.50
+PROD012,SuperLink SerDes,MAT010,Tungsten Metallization,3.13,grams,$266.05
+PROD012,SuperLink SerDes,MAT006,Aluminum Wire 1mm,24.50,meters,$122.50
+PROD012,SuperLink SerDes,MAT008,Ceramic Substrate,1.97,units,$246.25
+PROD012,SuperLink SerDes,MAT001,Silicon Wafers 300mm,2.61,units,"$1,174.50"

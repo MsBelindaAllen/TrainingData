@@ -1,0 +1,11 @@
+MaterialID,MaterialName,Category,SupplierCountry,UnitCost,LeadTimeDays
+MAT001,Silicon Wafers 300mm,Semiconductor,Japan,450,45
+MAT002,Gold Wire Bonding,Assembly,Malaysia,8,30
+MAT003,Copper PCB Substrate,Substrate,Taiwan,65,28
+MAT004,Photoresist Material,Chemical,South Korea,32,35
+MAT005,Flux & Solder,Assembly,USA,12,20
+MAT006,Aluminum Wire 1mm,Assembly,China,5,25
+MAT007,Epoxy Molding Compound,Packaging,Taiwan,28,42
+MAT008,Ceramic Substrate,Substrate,Japan,125,50
+MAT009,Tantalum Capacitors,Components,Malaysia,2.5,60
+MAT010,Tungsten Metallization,Chemical,Germany,85,38

@@ -1,0 +1,13 @@
+ProductID,ProductName,Category,ProductLine,UnitPrice,ManufactureLocation
+PROD001,Titan XP3000,Processors,Data Center,8500,Taiwan
+PROD002,Titan XP5000,Processors,Data Center,12800,Taiwan
+PROD003,AlexII Network Switch,Networking,Enterprise,4200,Vietnam
+PROD004,Fastcore SSD Controller,Storage,Enterprise,3100,Taiwan
+PROD005,DuetoQ Crypto Engine,Security,Infrastructure,6500,USA
+PROD006,LinkMax 400G PHY,Networking,Enterprise,2800,Vietnam
+PROD007,SonicLift Transceiver,Optical,Telecom,5400,Israel
+PROD008,PowerVault IoT Gateway,IoT,Edge Computing,1850,Mexico
+PROD009,Sentinel Security Chip,Security,Consumer,450,Thailand
+PROD010,FlexiCore FPGA,FPGA,Custom,9200,USA
+PROD011,Prism Display Driver,Display,Consumer,320,Thailand
+PROD012,SuperLink SerDes,Analog,Infrastructure,1600,Israel
